@@ -28,11 +28,12 @@
 * 其中："cos_similarity" 为decoder-only模型Qwen2.5-7B + prompt引导利用输出的最后层的最后一个token的向量进行计算
 *   "gpt_aim_word_cos_similarity" 为decoder-only模型Qwen2.5-7B 在特定层（10-19）上针对key word的token进行聚合得到的向量进行计算
 *   "deberta_base_cos_similarity" "deberta_large_cos_similarity" "modernbert_base_cos_similarity" "modernbert_large_cos_similarity" "googlebert_cos_similarity" 均为几款bert模型在特定层上针对key word的token进行聚合得到的向量进行计算
-*   * all_models_node_similarity_comparison.pkl ---- 上述数据的pkl
+* all_models_node_similarity_comparison.pkl ---- 上述数据的pkl
 
 * 在Qwen2.5-7B模型上利用Salesforce/wikitext中wikitext-2-raw-v1数据为样本进行了ID值的计算（Intrinsic Dimension）ID较低的层可能表示更抽象、更压缩的特征，而ID较高的层可能表示更丰富、更细粒度的特征。实验结果见 "qwen25_wikitext_lines_ids.pkl" 与 "qwen25_wikitext_lines_ids.png"
 
 * all_models_merge_decision_comparison.pkl --- 通过询问LLM的方式获得的几款不同LLM的合并意见，True为可以合并
 * all_models_merge_decision_comparison.xlsx --- 上述数据的excel
 
-* 
+* merge_decision_similarity_comparison.pkl --- 几个LLM的合并意见与通过计算得到的相似度的合并
+* merge_decision_similarity_comparison.xlsx --- excel表格
