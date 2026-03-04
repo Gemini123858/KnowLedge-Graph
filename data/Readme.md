@@ -37,3 +37,8 @@
 
 * merge_decision_similarity_comparison.pkl --- 几个LLM的合并意见与通过计算得到的相似度的合并
 * merge_decision_similarity_comparison.xlsx --- excel表格
+
+```
+以上所有数据中某个模型的单独计算值也均存在
+```
+* /data/analysis/中为对各个模型相似度计算值的分布图绘制
