@@ -1,0 +1,2581 @@
+[
+    {
+        "icews_node": "Amal Alamuddin",
+        "icews_node_relations": [
+            "Amal Alamuddin(type=Node) -[Accuse(start_time=2015-03,end_time=2015-03)]-> Philippines(type=Node)",
+            "Amal Alamuddin(type=Node) -[Reject(start_time=2014-08,end_time=2014-08)]-> United Nations(type=Node)",
+            "Amal Alamuddin(type=Node) -[Reject(start_time=2014-08,end_time=2014-08)]-> United Nations(type=Node)"
+        ],
+        "ref_wiki_node": "Amal Clooney",
+        "ref_wiki_node_relations": [
+            "Amal Clooney(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+            "Amal Clooney(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Female (gender)(type=Node)",
+            "Amal Clooney(type=Node) -[educated at(start_time=~,end_time=~)]-> St Hugh's College, Oxford(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Muhiuddin Khan Alamgir",
+                "similarity": 0.8419377207756042,
+                "wiki_node_relations": [
+                    "Muhiuddin Khan Alamgir(type=Node) -[native language(start_time=~,end_time=~)]-> Bengali language(type=Node)",
+                    "Muhiuddin Khan Alamgir(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Muhiuddin Khan Alamgir(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> Bengali language(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Kamal Adham",
+                "similarity": 0.8076930642127991,
+                "wiki_node_relations": [
+                    "Kamal Adham(type=Node) -[cause of death(start_time=~,end_time=~)]-> Myocardial infarction(type=Node)",
+                    "Kamal Adham(type=Node) -[occupation(start_time=~,end_time=~)]-> Businessperson(type=Node)",
+                    "Kamal Adham(type=Node) -[place of death(start_time=~,end_time=~)]-> Cairo(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Amal Clooney",
+                "similarity": 0.8053120374679565,
+                "wiki_node_relations": [
+                    "Amal Clooney(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+                    "Amal Clooney(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Female (gender)(type=Node)",
+                    "Amal Clooney(type=Node) -[educated at(start_time=~,end_time=~)]-> St Hugh's College, Oxford(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Alexander Vladimirovich Rutskoy",
+        "icews_node_relations": [
+            "Senate (Russia)(type=Node) -[Praise or endorse(start_time=2000-10,end_time=2000-10)]-> Alexander Vladimirovich Rutskoy(type=Node)",
+            "Boris Abramovich Berezovsky(type=Node) -[Praise or endorse(start_time=2000-11,end_time=2000-11)]-> Alexander Vladimirovich Rutskoy(type=Node)",
+            "Senate (Russia)(type=Node) -[Express accord(start_time=2000-10,end_time=2000-10)]-> Alexander Vladimirovich Rutskoy(type=Node)"
+        ],
+        "ref_wiki_node": "Alexander Rutskoy",
+        "ref_wiki_node_relations": [
+            "Alexander Rutskoy(type=Node) -[academic degree(start_time=~,end_time=~)]-> Doctor of Economics(type=Node)",
+            "Alexander Rutskoy(type=Node) -[position held(start_time=~,end_time=~)]-> Minister (government)(type=Node)",
+            "Alexander Rutskoy(type=Node) -[educated at(start_time=~,end_time=~)]-> Military Academy of the General Staff of the Armed Forces of Russia(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Vladimir Vasilievich Rusakevich",
+                "similarity": 0.8507387638092041,
+                "wiki_node_relations": [
+                    "Vladimir Vasilievich Rusakevich(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> Russian language(type=Node)",
+                    "Vladimir Vasilievich Rusakevich(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Belarus(type=Node)",
+                    "Vladimir Vasilievich Rusakevich(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> Polish language(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Vladimir Anatolyevich Yakovlev",
+                "similarity": 0.8438158631324768,
+                "wiki_node_relations": [
+                    "Vladimir Anatolyevich Yakovlev(type=Node) -[member of political party(start_time=~,end_time=~)]-> Communist Party of the Soviet Union(type=Node)",
+                    "Vladimir Anatolyevich Yakovlev(type=Node) -[award received(start_time=~,end_time=~)]-> Grand Officer of the Order of the White Double Cross(type=Node)",
+                    "Vladimir Anatolyevich Yakovlev(type=Node) -[given name(start_time=~,end_time=~)]-> Vladimir(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Alexander Rutskoy",
+                "similarity": 0.8431856632232666,
+                "wiki_node_relations": [
+                    "Alexander Rutskoy(type=Node) -[academic degree(start_time=~,end_time=~)]-> Doctor of Economics(type=Node)",
+                    "Alexander Rutskoy(type=Node) -[position held(start_time=~,end_time=~)]-> Minister (government)(type=Node)",
+                    "Alexander Rutskoy(type=Node) -[educated at(start_time=~,end_time=~)]-> Military Academy of the General Staff of the Armed Forces of Russia(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Viet",
+        "icews_node_relations": [
+            "Viet(type=Node) -[Praise or endorse(start_time=2018-06,end_time=2018-06)]-> Foreign Affairs (United Kingdom)(type=Node)",
+            "Christian Poncelet(type=Node) -[Consult(start_time=2007-02,end_time=2007-02)]-> Viet(type=Node)",
+            "Citizen (Vietnam)(type=Node) -[Express accord(start_time=2010-06,end_time=2010-06)]-> Viet(type=Node)"
+        ],
+        "ref_wiki_node": "Vietnamese people",
+        "ref_wiki_node_relations": [
+            "Vietnamese people(type=Node) -[native language(start_time=~,end_time=~)]-> Vietnamese language(type=Node)",
+            "Vietnamese people(type=Node) -[religion(start_time=~,end_time=~)]-> Catholicism(type=Node)",
+            "Nguyen Phu Trong(type=Node) -[ethnic group(start_time=~,end_time=~)]-> Vietnamese people(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Vietnam",
+                "similarity": 0.7697815895080566,
+                "wiki_node_relations": [
+                    "Ice cream cone(type=Node) -[location(start_time=~,end_time=~)]-> Vietnam(type=Node)",
+                    "Vietnam(type=Node) -[diplomatic relation(start_time=~,end_time=~)]-> Pakistan(type=Node)",
+                    "Sam Johnson(type=Node) -[residence(start_time=1966-00,end_time=1973-00)]-> Vietnam(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Vietnam War",
+                "similarity": 0.6510556936264038,
+                "wiki_node_relations": [
+                    "Tom Carper(type=Node) -[conflict(start_time=~,end_time=~)]-> Vietnam War(type=Node)",
+                    "Andrew Goodpaster(type=Node) -[conflict(start_time=~,end_time=~)]-> Vietnam War(type=Node)",
+                    "Wesley Clark(type=Node) -[conflict(start_time=~,end_time=~)]-> Vietnam War(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Vietnamese people",
+                "similarity": 0.6248363256454468,
+                "wiki_node_relations": [
+                    "Vietnamese people(type=Node) -[native language(start_time=~,end_time=~)]-> Vietnamese language(type=Node)",
+                    "Vietnamese people(type=Node) -[religion(start_time=~,end_time=~)]-> Catholicism(type=Node)",
+                    "Nguyen Phu Trong(type=Node) -[ethnic group(start_time=~,end_time=~)]-> Vietnamese people(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "University of the Republic",
+        "icews_node_relations": [
+            "University of the Republic(type=Node) -[Consult(start_time=2005-06,end_time=2005-06)]-> United Nations Development Programme(type=Node)",
+            "Jose Mujica(type=Node) -[Consult(start_time=2009-02,end_time=2009-02)]-> University of the Republic(type=Node)",
+            "University of the Republic(type=Node) -[Make statement(start_time=2008-09,end_time=2008-09)]-> Colombia(type=Node)"
+        ],
+        "ref_wiki_node": "University of the Republic (Uruguay)",
+        "ref_wiki_node_relations": [
+            "Danilo Astori(type=Node) -[employer(start_time=~,end_time=~)]-> University of the Republic (Uruguay)(type=Node)",
+            "Gonzalo Aguirre Ramirez(type=Node) -[educated at(start_time=~,end_time=~)]-> University of the Republic (Uruguay)(type=Node)",
+            "Hugo Dibarboure Icasuriaga(type=Node) -[educated at(start_time=~,end_time=1963-00)]-> University of the Republic (Uruguay)(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "University of the Philippines",
+                "similarity": 0.9138232469558716,
+                "wiki_node_relations": [
+                    "University of the Philippines(type=Node) -[country(start_time=~,end_time=~)]-> Philippines(type=Node)",
+                    "University of the Philippines(type=Node) -[located in the administrative territorial entity(start_time=~,end_time=~)]-> Manila(type=Node)",
+                    "Gloria Macapagal Arroyo(type=Node) -[educated at(start_time=~,end_time=~)]-> University of the Philippines(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "University of the Republic (Uruguay)",
+                "similarity": 0.902765691280365,
+                "wiki_node_relations": [
+                    "Danilo Astori(type=Node) -[employer(start_time=~,end_time=~)]-> University of the Republic (Uruguay)(type=Node)",
+                    "Gonzalo Aguirre Ramirez(type=Node) -[educated at(start_time=~,end_time=~)]-> University of the Republic (Uruguay)(type=Node)",
+                    "Hugo Dibarboure Icasuriaga(type=Node) -[educated at(start_time=~,end_time=1963-00)]-> University of the Republic (Uruguay)(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Carlos Cerda",
+        "icews_node_relations": [
+            "Carlos Cerda(type=Node) -[Make statement(start_time=2006-01,end_time=2006-01)]-> Lucia Hiriart(type=Node)",
+            "Carlos Cerda(type=Node) -[Arrest, detain, or charge with legal action(start_time=2005-12,end_time=2005-12)]-> Augusto Pinochet(type=Node)",
+            "Carlos Cerda(type=Node) -[Arrest, detain, or charge with legal action(start_time=2006-01,end_time=2006-01)]-> Lucia Hiriart(type=Node)"
+        ],
+        "ref_wiki_node": "Pedro Aguirre Cerda",
+        "ref_wiki_node_relations": [
+            "Pedro Aguirre Cerda(type=Node) -[occupation(start_time=~,end_time=~)]-> Lawyer(type=Node)",
+            "Pedro Aguirre Cerda(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+            "Pedro Aguirre Cerda(type=Node) -[place of death(start_time=~,end_time=~)]-> Santiago(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Carlos Caceres",
+                "similarity": 0.8330044746398926,
+                "wiki_node_relations": [
+                    "Carlos Caceres(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Carlos Caceres(type=Node) -[member of sports team(start_time=2003-01,end_time=2003-01)]-> Union Espanola(type=Node)",
+                    "Carlos Caceres(type=Node) -[member of sports team(start_time=2003-01,end_time=2003-01)]-> Chiapas F.C.(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Pedro Aguirre Cerda",
+                "similarity": 0.821827232837677,
+                "wiki_node_relations": [
+                    "Pedro Aguirre Cerda(type=Node) -[occupation(start_time=~,end_time=~)]-> Lawyer(type=Node)",
+                    "Pedro Aguirre Cerda(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+                    "Pedro Aguirre Cerda(type=Node) -[place of death(start_time=~,end_time=~)]-> Santiago(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Glaxosmithkline",
+        "icews_node_relations": [
+            "Glaxosmithkline(type=Node) -[Express intent to cooperate(start_time=2009-05,end_time=2009-05)]-> Government (United Kingdom)(type=Node)",
+            "Glaxosmithkline(type=Node) -[Praise or endorse(start_time=2016-07,end_time=2016-07)]-> United Kingdom(type=Node)",
+            "South Korea(type=Node) -[Sign formal agreement(start_time=2009-08,end_time=2009-08)]-> Glaxosmithkline(type=Node)"
+        ],
+        "ref_wiki_node": "GSK plc",
+        "ref_wiki_node_relations": [
+            "GSK plc(type=Node) -[country(start_time=~,end_time=~)]-> United Kingdom(type=Node)",
+            "GSK plc(type=Node) -[stock exchange(start_time=~,end_time=~)]-> New York Stock Exchange(type=Node)",
+            "GSK plc(type=Node) -[instance of(start_time=~,end_time=~)]-> Public company(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Lensworld\u2013Kuota",
+                "similarity": 0.7563894391059875,
+                "wiki_node_relations": [
+                    "Lensworld\u2013Kuota(type=Node) -[country(start_time=2013-00,end_time=2014-00)]-> Netherlands(type=Node)",
+                    "Lensworld\u2013Kuota(type=Node) -[country(start_time=2015-00,end_time=~)]-> Belgium(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "The Time Machine (1960 film)",
+                "similarity": 0.7267908453941345,
+                "wiki_node_relations": [
+                    "The Time Machine (1960 film)(type=Node) -[narrative location(start_time=1900-01,end_time=1900-01)]-> England(type=Node)",
+                    "The Time Machine (1960 film)(type=Node) -[country of origin(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "The Time Machine (1960 film)(type=Node) -[original language of film or TV show(start_time=~,end_time=~)]-> English language(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "2001: A Space Odyssey (film)",
+                "similarity": 0.7265615463256836,
+                "wiki_node_relations": [
+                    "2001: A Space Odyssey (film)(type=Node) -[original language of film or TV show(start_time=~,end_time=~)]-> Russian language(type=Node)",
+                    "2001: A Space Odyssey (film)(type=Node) -[country of origin(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "2001: A Space Odyssey (film)(type=Node) -[filming location(start_time=~,end_time=~)]-> Utah(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Stephen Ira Cohen",
+        "icews_node_relations": [
+            "Palestinian Territory, Occupied(type=Node) -[Host a visit(start_time=2003-12,end_time=2003-12)]-> Stephen Ira Cohen(type=Node)",
+            "Hamas(type=Node) -[Consult(start_time=2003-12,end_time=2003-12)]-> Stephen Ira Cohen(type=Node)",
+            "Stephen Ira Cohen(type=Node) -[Make a visit(start_time=2003-12,end_time=2003-12)]-> Palestinian Territory, Occupied(type=Node)"
+        ],
+        "ref_wiki_node": "Steve Cohen (politician)",
+        "ref_wiki_node_relations": [
+            "Steve Cohen (politician)(type=Node) -[position held(start_time=1980-00,end_time=1980-00)]-> Delegate (American politics)(type=Node)",
+            "Steve Cohen (politician)(type=Node) -[work location(start_time=~,end_time=~)]-> Washington, D.C.(type=Node)",
+            "Steve Cohen (politician)(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Stephen L. Adler",
+                "similarity": 0.8091339468955994,
+                "wiki_node_relations": [
+                    "Stephen L. Adler(type=Node) -[occupation(start_time=~,end_time=~)]-> university teacher(type=Node)",
+                    "Stephen L. Adler(type=Node) -[educated at(start_time=~,end_time=1961-00)]-> Harvard University(type=Node)",
+                    "Stephen L. Adler(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> United States(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Stephen R. Anderson",
+                "similarity": 0.8033616542816162,
+                "wiki_node_relations": [
+                    "Stephen R. Anderson(type=Node) -[employer(start_time=1988-00,end_time=~)]-> Johns Hopkins University(type=Node)",
+                    "Stephen R. Anderson(type=Node) -[member of(start_time=1999-00,end_time=~)]-> American Academy of Arts and Sciences(type=Node)",
+                    "Stephen R. Anderson(type=Node) -[occupation(start_time=2007-00,end_time=2007-00)]-> President (corporate title)(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Stephen Rapp",
+                "similarity": 0.7996878623962402,
+                "wiki_node_relations": [
+                    "Stephen Rapp(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+                    "Stephen Rapp(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "Stephen Rapp(type=Node) -[occupation(start_time=~,end_time=~)]-> Lawyer(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Secretary of State for Justice",
+        "icews_node_relations": [
+            "Secretary of State for Justice(type=Node) -[Engage in symbolic act(start_time=2007-11,end_time=2007-11)]-> Mehmet Ali Sahin(type=Node)",
+            "Alexander Vladimirovich Konovalov(type=Node) -[Express intent to engage in diplomatic cooperation (such as policy support)(start_time=2010-11,end_time=2010-11)]-> Secretary of State for Justice(type=Node)",
+            "Secretary of State for Justice(type=Node) -[Make statement(start_time=2007-11,end_time=2007-11)]-> United Kingdom(type=Node)"
+        ],
+        "ref_wiki_node": "Secretary of State for Justice (UK)",
+        "ref_wiki_node_relations": [
+            "Secretary of State for Justice (UK)(type=Node) -[part of(start_time=~,end_time=~)]-> Cabinet of the United Kingdom(type=Node)",
+            "David Gauke(type=Node) -[position held(start_time=2018-01,end_time=~)]-> Secretary of State for Justice (UK)(type=Node)",
+            "Secretary of State for Justice (UK)(type=Node) -[officeholder(start_time=2016-07,end_time=2017-06)]-> Liz Truss(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Secretary of State for Education",
+                "similarity": 0.9685478210449219,
+                "wiki_node_relations": [
+                    "Edward Short, Baron Glenamara(type=Node) -[position held(start_time=1968-04,end_time=1970-06)]-> Secretary of State for Education(type=Node)",
+                    "Sarah Teather(type=Node) -[position held(start_time=2006-03,end_time=2007-07)]-> Secretary of State for Education(type=Node)",
+                    "Anthony Crosland(type=Node) -[position held(start_time=1965-01,end_time=1967-08)]-> Secretary of State for Education(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Secretary of State for Finance",
+                "similarity": 0.9656478762626648,
+                "wiki_node_relations": [
+                    "Secretary of State for Finance(type=Node) -[applies to jurisdiction(start_time=~,end_time=~)]-> Greece(type=Node)",
+                    "Filippos Sachinidis(type=Node) -[position held(start_time=~,end_time=~)]-> Secretary of State for Finance(type=Node)",
+                    "Alekos Papadopoulos(type=Node) -[position held(start_time=~,end_time=~)]-> Secretary of State for Finance(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Secretary of State for Scotland",
+                "similarity": 0.9629608392715454,
+                "wiki_node_relations": [
+                    "Ian Lang, Baron Lang of Monkton(type=Node) -[position held(start_time=1990-11,end_time=1995-07)]-> Secretary of State for Scotland(type=Node)",
+                    "Arthur Balfour(type=Node) -[position held(start_time=1886-08,end_time=1887-03)]-> Secretary of State for Scotland(type=Node)",
+                    "Secretary of State for Scotland(type=Node) -[appointed by(start_time=~,end_time=~)]-> Elizabeth II(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Andrey Vladimirovich Kozyrev",
+        "icews_node_relations": [
+            "Norway(type=Node) -[Host a visit(start_time=1995-10,end_time=1995-10)]-> Andrey Vladimirovich Kozyrev(type=Node)",
+            "Andrey Vladimirovich Kozyrev(type=Node) -[Express intent to meet or negotiate(start_time=1995-08,end_time=1995-08)]-> Anthony Lake(type=Node)",
+            "Russia(type=Node) -[Praise or endorse(start_time=1995-12,end_time=1995-12)]-> Andrey Vladimirovich Kozyrev(type=Node)"
+        ],
+        "ref_wiki_node": "Andrei Kozyrev",
+        "ref_wiki_node_relations": [
+            "Andrei Kozyrev(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Russia(type=Node)",
+            "Andrei Kozyrev(type=Node) -[work location(start_time=~,end_time=~)]-> Moscow(type=Node)",
+            "Andrei Kozyrev(type=Node) -[member of political party(start_time=~,end_time=~)]-> Communist Party of the Soviet Union(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Andrey Nikolayevich Tikhonov",
+                "similarity": 0.8684293031692505,
+                "wiki_node_relations": [
+                    "Andrey Nikolayevich Tikhonov(type=Node) -[member of(start_time=1939-01,end_time=~)]-> Academy of Sciences of the Soviet Union(type=Node)",
+                    "Andrey Nikolayevich Tikhonov(type=Node) -[award received(start_time=1986-10,end_time=1986-10)]-> \"Hammer and Sickle\" gold medal(type=Node)",
+                    "Andrey Nikolayevich Tikhonov(type=Node) -[award received(start_time=1975-09,end_time=1975-09)]-> Order of the October Revolution(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Andrei Kozyrev",
+                "similarity": 0.858929455280304,
+                "wiki_node_relations": [
+                    "Andrei Kozyrev(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Russia(type=Node)",
+                    "Andrei Kozyrev(type=Node) -[work location(start_time=~,end_time=~)]-> Moscow(type=Node)",
+                    "Andrei Kozyrev(type=Node) -[member of political party(start_time=~,end_time=~)]-> Communist Party of the Soviet Union(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Prince Charles",
+        "icews_node_relations": [
+            "Greece(type=Node) -[Host a visit(start_time=2018-05,end_time=2018-05)]-> Prince Charles(type=Node)",
+            "Australia(type=Node) -[Host a visit(start_time=2018-04,end_time=2018-04)]-> Prince Charles(type=Node)",
+            "Member of Parliament (United Kingdom)(type=Node) -[Appeal for change in leadership(start_time=2014-05,end_time=2014-05)]-> Prince Charles(type=Node)"
+        ],
+        "ref_wiki_node": "Charles III",
+        "ref_wiki_node_relations": [
+            "Charles III(type=Node) -[child(start_time=~,end_time=~)]-> Prince Harry, Duke of Sussex(type=Node)",
+            "Charles III(type=Node) -[spouse(start_time=2005-04,end_time=~)]-> Camilla, Queen Consort(type=Node)",
+            "Charles III(type=Node) -[award received(start_time=1981-03,end_time=1981-03)]-> Knight of the Order of Australia(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Prince Charles, Count of Flanders",
+                "similarity": 0.7785999774932861,
+                "wiki_node_relations": [
+                    "Albert I of Belgium(type=Node) -[child(start_time=~,end_time=~)]-> Prince Charles, Count of Flanders(type=Node)",
+                    "Prince Charles, Count of Flanders(type=Node) -[place of birth(start_time=~,end_time=~)]-> Brussels metropolitan area(type=Node)",
+                    "Belgium(type=Node) -[head of state(start_time=1944-09,end_time=1950-07)]-> Prince Charles, Count of Flanders(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Prince of Wales",
+                "similarity": 0.7641618251800537,
+                "wiki_node_relations": [
+                    "Charles III(type=Node) -[noble title(start_time=~,end_time=~)]-> Prince of Wales(type=Node)",
+                    "Prince of Wales(type=Node) -[appointed by(start_time=~,end_time=~)]-> Monarch of the United Kingdom(type=Node)",
+                    "Edward VIII(type=Node) -[noble title(start_time=1911-07,end_time=~)]-> Prince of Wales(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Prince",
+                "similarity": 0.7463796734809875,
+                "wiki_node_relations": [
+                    "Frederik, Crown Prince of Denmark(type=Node) -[noble title(start_time=~,end_time=~)]-> Prince(type=Node)",
+                    "Albert II, Prince of Monaco(type=Node) -[noble title(start_time=~,end_time=~)]-> Prince(type=Node)",
+                    "Mohammed bin Salman(type=Node) -[occupation(start_time=~,end_time=~)]-> Prince(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Frank R. Wolf",
+        "icews_node_relations": [
+            "Frank R. Wolf(type=Node) -[Make a visit(start_time=2001-01,end_time=2001-01)]-> Democratic Republic of Congo(type=Node)",
+            "Sudan(type=Node) -[Host a visit(start_time=2004-07,end_time=2004-07)]-> Frank R. Wolf(type=Node)",
+            "Democratic Republic of Congo(type=Node) -[Host a visit(start_time=2001-01,end_time=2001-01)]-> Frank R. Wolf(type=Node)"
+        ],
+        "ref_wiki_node": "Frank Wolf (politician)",
+        "ref_wiki_node_relations": [
+            "Frank Wolf (politician)(type=Node) -[position held(start_time=2003-01,end_time=2005-01)]-> United States Representative(type=Node)",
+            "Frank Wolf (politician)(type=Node) -[educated at(start_time=1957-00,end_time=1958-00)]-> University of Mississippi(type=Node)",
+            "Frank Wolf (politician)(type=Node) -[military branch(start_time=1962-00,end_time=1967-00)]-> United States Army Reserve(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Frank J. Cannon",
+                "similarity": 0.872058629989624,
+                "wiki_node_relations": [
+                    "Frank J. Cannon(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "Frank J. Cannon(type=Node) -[work location(start_time=~,end_time=~)]-> Washington, D.C.(type=Node)",
+                    "Frank J. Cannon(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Frank Wolf (politician)",
+                "similarity": 0.8242616057395935,
+                "wiki_node_relations": [
+                    "Frank Wolf (politician)(type=Node) -[position held(start_time=2003-01,end_time=2005-01)]-> United States Representative(type=Node)",
+                    "Frank Wolf (politician)(type=Node) -[educated at(start_time=1957-00,end_time=1958-00)]-> University of Mississippi(type=Node)",
+                    "Frank Wolf (politician)(type=Node) -[military branch(start_time=1962-00,end_time=1967-00)]-> United States Army Reserve(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Boris Abramovich Berezovsky",
+        "icews_node_relations": [
+            "Leonid Kravchuk(type=Node) -[Make statement(start_time=2005-09,end_time=2005-09)]-> Boris Abramovich Berezovsky(type=Node)",
+            "Representative (Russia)(type=Node) -[Make statement(start_time=2007-08,end_time=2007-08)]-> Boris Abramovich Berezovsky(type=Node)",
+            "Boris Abramovich Berezovsky(type=Node) -[Make optimistic comment(start_time=1999-04,end_time=1999-04)]-> Alexander Ivanovich Lebed(type=Node)"
+        ],
+        "ref_wiki_node": "Boris Berezovsky (businessman)",
+        "ref_wiki_node_relations": [
+            "Boris Berezovsky (businessman)(type=Node) -[described by source(start_time=~,end_time=~)]-> Lentapedia (full versions)(type=Node)",
+            "Boris Berezovsky (businessman)(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+            "Boris Berezovsky (businessman)(type=Node) -[occupation(start_time=~,end_time=~)]-> Mathematician(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Denis Berezovsky",
+                "similarity": 0.912517786026001,
+                "wiki_node_relations": [
+                    "Denis Berezovsky(type=Node) -[place of birth(start_time=~,end_time=~)]-> Kharkiv(type=Node)",
+                    "Denis Berezovsky(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Russia(type=Node)",
+                    "Denis Berezovsky(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Ukraine(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Boris Berezovsky (businessman)",
+                "similarity": 0.9066222906112671,
+                "wiki_node_relations": [
+                    "Boris Berezovsky (businessman)(type=Node) -[described by source(start_time=~,end_time=~)]-> Lentapedia (full versions)(type=Node)",
+                    "Boris Berezovsky (businessman)(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+                    "Boris Berezovsky (businessman)(type=Node) -[occupation(start_time=~,end_time=~)]-> Mathematician(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Ingrid Betancourt Pulecio",
+        "icews_node_relations": [
+            "Revolutionary Armed Forces of Colombia(type=Node) -[Make statement(start_time=2008-07,end_time=2008-07)]-> Ingrid Betancourt Pulecio(type=Node)",
+            "Ingrid Betancourt Pulecio(type=Node) -[Appeal for release of persons or property(start_time=2008-12,end_time=2008-12)]-> Revolutionary Armed Forces of Colombia(type=Node)",
+            "Ingrid Betancourt Pulecio(type=Node) -[Make a visit(start_time=2008-07,end_time=2008-07)]-> France(type=Node)"
+        ],
+        "ref_wiki_node": "\u00cdngrid Betancourt",
+        "ref_wiki_node_relations": [
+            "\u00cdngrid Betancourt(type=Node) -[position held(start_time=1998-07,end_time=2002-02)]-> member of the Senate of Colombia(type=Node)",
+            "\u00cdngrid Betancourt(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Female (gender)(type=Node)",
+            "\u00cdngrid Betancourt(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> French language(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Belisario Betancur",
+                "similarity": 0.8550171852111816,
+                "wiki_node_relations": [
+                    "Belisario Betancur(type=Node) -[occupation(start_time=~,end_time=~)]-> Journalist(type=Node)",
+                    "Belisario Betancur(type=Node) -[place of death(start_time=~,end_time=~)]-> Bogota(type=Node)",
+                    "Belisario Betancur(type=Node) -[occupation(start_time=~,end_time=~)]-> Lawyer(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "\u00cdngrid Betancourt",
+                "similarity": 0.8338804244995117,
+                "wiki_node_relations": [
+                    "\u00cdngrid Betancourt(type=Node) -[position held(start_time=1998-07,end_time=2002-02)]-> member of the Senate of Colombia(type=Node)",
+                    "\u00cdngrid Betancourt(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Female (gender)(type=Node)",
+                    "\u00cdngrid Betancourt(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> French language(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Vicente Romero",
+        "icews_node_relations": [
+            "Vicente Romero(type=Node) -[Make statement(start_time=2016-12,end_time=2016-12)]-> Peru(type=Node)"
+        ],
+        "ref_wiki_node": "Vicente Romero (footballer)",
+        "ref_wiki_node_relations": [
+            "Vicente Romero (footballer)(type=Node) -[member of sports team(start_time=2009-01,end_time=2011-01)]-> Burjassot CF(type=Node)",
+            "Vicente Romero (footballer)(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+            "Vicente Romero (footballer)(type=Node) -[member of sports team(start_time=2012-01,end_time=2013-01)]-> Ontinyent CF(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Vicente Fox",
+                "similarity": 0.8908866047859192,
+                "wiki_node_relations": [
+                    "Vicente Fox(type=Node) -[award received(start_time=2007-01,end_time=2007-01)]-> Giuseppe Motta Medal(type=Node)",
+                    "Vicente Fox(type=Node) -[award received(start_time=~,end_time=~)]-> Order of the Seraphim(type=Node)",
+                    "Vicente Fox(type=Node) -[award received(start_time=~,end_time=~)]-> Grand Cross of the Order of Merit of the Republic of Poland(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Vicente Alvarez Areces",
+                "similarity": 0.8767282962799072,
+                "wiki_node_relations": [
+                    "Vicente Alvarez Areces(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Vicente Alvarez Areces(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Vicente Alvarez Areces(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Spain(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Vicente Romero (footballer)",
+                "similarity": 0.8585290312767029,
+                "wiki_node_relations": [
+                    "Vicente Romero (footballer)(type=Node) -[member of sports team(start_time=2009-01,end_time=2011-01)]-> Burjassot CF(type=Node)",
+                    "Vicente Romero (footballer)(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Vicente Romero (footballer)(type=Node) -[member of sports team(start_time=2012-01,end_time=2013-01)]-> Ontinyent CF(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Abdur Rehman",
+        "icews_node_relations": [
+            "Police (Pakistan)(type=Node) -[Make statement(start_time=2002-10,end_time=2002-10)]-> Abdur Rehman(type=Node)",
+            "Abdur Rehman(type=Node) -[Make a visit(start_time=2015-12,end_time=2015-12)]-> India(type=Node)",
+            "Abdur Rehman(type=Node) -[Make statement(start_time=2008-09,end_time=2008-09)]-> India(type=Node)"
+        ],
+        "ref_wiki_node": "Abd al-Rahman",
+        "ref_wiki_node_relations": [
+            "Abdul Rahman bin Abdulaziz Al Saud(type=Node) -[given name(start_time=~,end_time=~)]-> Abd al-Rahman(type=Node)",
+            "Abd al-Rahman(type=Node) -[language of work or name(start_time=~,end_time=~)]-> Arabic(type=Node)",
+            "Abd al-Rahman(type=Node) -[described by source(start_time=~,end_time=~)]-> Small Brockhaus and Efron Encyclopedic Dictionary(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Abdurrahman Wahid",
+                "similarity": 0.8814684748649597,
+                "wiki_node_relations": [
+                    "Abdurrahman Wahid(type=Node) -[award received(start_time=1993-01,end_time=1993-01)]-> Ramon Magsaysay Award(type=Node)",
+                    "Abdurrahman Wahid(type=Node) -[occupation(start_time=~,end_time=~)]-> Journalist(type=Node)",
+                    "Abdurrahman Wahid(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Abdourahman Waberi",
+                "similarity": 0.8689284920692444,
+                "wiki_node_relations": [
+                    "Abdourahman Waberi(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> French language(type=Node)",
+                    "Abdourahman Waberi(type=Node) -[employer(start_time=~,end_time=~)]-> George Washington University(type=Node)",
+                    "Abdourahman Waberi(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Djibouti(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Abd al-Rahman",
+                "similarity": 0.86016845703125,
+                "wiki_node_relations": [
+                    "Abdul Rahman bin Abdulaziz Al Saud(type=Node) -[given name(start_time=~,end_time=~)]-> Abd al-Rahman(type=Node)",
+                    "Abd al-Rahman(type=Node) -[language of work or name(start_time=~,end_time=~)]-> Arabic(type=Node)",
+                    "Abd al-Rahman(type=Node) -[described by source(start_time=~,end_time=~)]-> Small Brockhaus and Efron Encyclopedic Dictionary(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Secretariat of State",
+        "icews_node_relations": [
+            "Holy See (Vatican City State)(type=Node) -[Express intent to meet or negotiate(start_time=2018-05,end_time=2018-05)]-> Secretariat of State(type=Node)",
+            "Secretariat of State(type=Node) -[Consult(start_time=2002-01,end_time=2002-01)]-> Simeon Saxe-Coburg Gotha(type=Node)",
+            "Federico Lombardi(type=Node) -[Make statement(start_time=2014-01,end_time=2014-01)]-> Secretariat of State(type=Node)"
+        ],
+        "ref_wiki_node": "Secretary of state",
+        "ref_wiki_node_relations": [
+            "Abdul Qadir Al Muhairi(type=Node) -[position held(start_time=1987-05,end_time=1987-11)]-> Secretary of state(type=Node)",
+            "Secretary of state(type=Node) -[described by source(start_time=~,end_time=~)]-> Armenian Soviet Encyclopedia(type=Node)",
+            "Nita Lowey(type=Node) -[position held(start_time=1985-00,end_time=1987-00)]-> Secretary of state(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Secretary of State for Finance",
+                "similarity": 0.8222109079360962,
+                "wiki_node_relations": [
+                    "Secretary of State for Finance(type=Node) -[applies to jurisdiction(start_time=~,end_time=~)]-> Greece(type=Node)",
+                    "Filippos Sachinidis(type=Node) -[position held(start_time=~,end_time=~)]-> Secretary of State for Finance(type=Node)",
+                    "Alekos Papadopoulos(type=Node) -[position held(start_time=~,end_time=~)]-> Secretary of State for Finance(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Secretary of state",
+                "similarity": 0.8191403150558472,
+                "wiki_node_relations": [
+                    "Abdul Qadir Al Muhairi(type=Node) -[position held(start_time=1987-05,end_time=1987-11)]-> Secretary of state(type=Node)",
+                    "Secretary of state(type=Node) -[described by source(start_time=~,end_time=~)]-> Armenian Soviet Encyclopedia(type=Node)",
+                    "Nita Lowey(type=Node) -[position held(start_time=1985-00,end_time=1987-00)]-> Secretary of state(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "John R. Bolton",
+        "icews_node_relations": [
+            "John R. Bolton(type=Node) -[Criticize or denounce(start_time=2019-01,end_time=2019-01)]-> Venezuela(type=Node)",
+            "John R. Bolton(type=Node) -[Engage in negotiation(start_time=2019-01,end_time=2019-01)]-> Government Official (Turkey)(type=Node)",
+            "John R. Bolton(type=Node) -[Make a visit(start_time=2003-07,end_time=2003-07)]-> Japan(type=Node)"
+        ],
+        "ref_wiki_node": "John Bolton",
+        "ref_wiki_node_relations": [
+            "John Bolton(type=Node) -[described by source(start_time=~,end_time=~)]-> Lentapedia (full versions)(type=Node)",
+            "John Bolton(type=Node) -[position held(start_time=~,end_time=~)]-> Ambassador(type=Node)",
+            "John Bolton(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> United States(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "John R. Walsh",
+                "similarity": 0.9339407682418823,
+                "wiki_node_relations": [
+                    "John R. Walsh(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "John R. Walsh(type=Node) -[position held(start_time=1960-00,end_time=~)]-> Delegate (American politics)(type=Node)",
+                    "John R. Walsh(type=Node) -[position held(start_time=1949-01,end_time=1951-01)]-> United States Representative(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "John R. Allen",
+                "similarity": 0.9103991389274597,
+                "wiki_node_relations": [
+                    "2015 Bilderberg Conference(type=Node) -[participant(start_time=~,end_time=~)]-> John R. Allen(type=Node)",
+                    "John R. Allen(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "John R. Allen(type=Node) -[military rank(start_time=~,end_time=~)]-> General officer(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "John B. Dale",
+                "similarity": 0.888894259929657,
+                "wiki_node_relations": [
+                    "John B. Dale(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "John B. Dale(type=Node) -[residence(start_time=1838-00,end_time=1842-00)]-> Brazil(type=Node)",
+                    "John B. Dale(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "William P. Barr",
+        "icews_node_relations": [
+            "Head of Government (Afghanistan)(type=Node) -[Make an appeal or request(start_time=2020-10,end_time=2020-10)]-> William P. Barr(type=Node)",
+            "William P. Barr(type=Node) -[Reject(start_time=2020-05,end_time=2020-05)]-> Michael Flynn(type=Node)",
+            "William P. Barr(type=Node) -[Consult(start_time=2019-04,end_time=2019-04)]-> Head of Government (Russia)(type=Node)"
+        ],
+        "ref_wiki_node": "William Barr",
+        "ref_wiki_node_relations": [
+            "William Barr(type=Node) -[position held(start_time=1991-11,end_time=1993-01)]-> United States Attorney General(type=Node)",
+            "William Barr(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+            "William Barr(type=Node) -[educated at(start_time=~,end_time=~)]-> George Washington University(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "William P. Rogers",
+                "similarity": 0.9227725863456726,
+                "wiki_node_relations": [
+                    "William P. Rogers(type=Node) -[occupation(start_time=~,end_time=~)]-> Diplomat(type=Node)",
+                    "William P. Rogers(type=Node) -[military rank(start_time=~,end_time=~)]-> Lieutenant commander (United States)(type=Node)",
+                    "William P. Rogers(type=Node) -[religion(start_time=~,end_time=~)]-> Presbyterianism(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "William Barr",
+                "similarity": 0.8712183237075806,
+                "wiki_node_relations": [
+                    "William Barr(type=Node) -[position held(start_time=1991-11,end_time=1993-01)]-> United States Attorney General(type=Node)",
+                    "William Barr(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "William Barr(type=Node) -[educated at(start_time=~,end_time=~)]-> George Washington University(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "House of Representatives of Japan",
+        "icews_node_relations": [
+            "Tang Jiaxuan(type=Node) -[Make a visit(start_time=2006-08,end_time=2006-08)]-> House of Representatives of Japan(type=Node)",
+            "Mongolia(type=Node) -[Host a visit(start_time=2018-10,end_time=2018-10)]-> House of Representatives of Japan(type=Node)",
+            "House of Representatives of Japan(type=Node) -[Make a visit(start_time=2000-03,end_time=2000-03)]-> Bangladesh(type=Node)"
+        ],
+        "ref_wiki_node": "House of Representatives (Japan)",
+        "ref_wiki_node_relations": [
+            "House of Representatives (Japan)(type=Node) -[has part(start_time=~,end_time=~)]-> Shinzo Abe(type=Node)",
+            "House of Representatives (Japan)(type=Node) -[has part(start_time=~,end_time=~)]-> Shigeru Ishiba(type=Node)",
+            "House of Representatives (Japan)(type=Node) -[has part(start_time=~,end_time=~)]-> Jun Azumi(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "member of the House of Representatives of Japan",
+                "similarity": 0.9431124925613403,
+                "wiki_node_relations": [
+                    "Koichiro Genba(type=Node) -[position held(start_time=~,end_time=~)]-> member of the House of Representatives of Japan(type=Node)",
+                    "Taro Aso(type=Node) -[position held(start_time=2017-10,end_time=~)]-> member of the House of Representatives of Japan(type=Node)",
+                    "Katsuya Okada(type=Node) -[position held(start_time=~,end_time=~)]-> member of the House of Representatives of Japan(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "House of Representatives (Japan)",
+                "similarity": 0.9348621964454651,
+                "wiki_node_relations": [
+                    "House of Representatives (Japan)(type=Node) -[has part(start_time=~,end_time=~)]-> Shinzo Abe(type=Node)",
+                    "House of Representatives (Japan)(type=Node) -[has part(start_time=~,end_time=~)]-> Shigeru Ishiba(type=Node)",
+                    "House of Representatives (Japan)(type=Node) -[has part(start_time=~,end_time=~)]-> Jun Azumi(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "French Air Force",
+        "icews_node_relations": [
+            "French Air Force(type=Node) -[Mobilize or increase armed forces(start_time=2004-12,end_time=2004-12)]-> Tajikistan(type=Node)",
+            "French Air Force(type=Node) -[Conduct suicide, car, or other non-military bombing(start_time=2015-11,end_time=2015-11)]-> Syria(type=Node)",
+            "French Air Force(type=Node) -[Employ aerial weapons(start_time=2015-11,end_time=2015-11)]-> Syria(type=Node)"
+        ],
+        "ref_wiki_node": "French Air and Space Force",
+        "ref_wiki_node_relations": [
+            "French Air and Space Force(type=Node) -[country(start_time=~,end_time=~)]-> France(type=Node)",
+            "French Air and Space Force(type=Node) -[part of(start_time=~,end_time=~)]-> French Armed Forces(type=Node)",
+            "French Air and Space Force(type=Node) -[location(start_time=~,end_time=~)]-> Metz(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Russian Air Force",
+                "similarity": 0.9059284925460815,
+                "wiki_node_relations": [
+                    "Russian military intervention in the Syrian civil war(type=Node) -[participant(start_time=~,end_time=~)]-> Russian Air Force(type=Node)",
+                    "Vladimir Georgiyevich Titov(type=Node) -[military branch(start_time=~,end_time=~)]-> Russian Air Force(type=Node)",
+                    "Russian Air Force(type=Node) -[location(start_time=~,end_time=~)]-> Moscow(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "French Air and Space Force",
+                "similarity": 0.8892585039138794,
+                "wiki_node_relations": [
+                    "French Air and Space Force(type=Node) -[country(start_time=~,end_time=~)]-> France(type=Node)",
+                    "French Air and Space Force(type=Node) -[part of(start_time=~,end_time=~)]-> French Armed Forces(type=Node)",
+                    "French Air and Space Force(type=Node) -[location(start_time=~,end_time=~)]-> Metz(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Pakistan administered Kashmir",
+        "icews_node_relations": [
+            "Imran Khan(type=Node) -[Make a visit(start_time=2019-08,end_time=2019-08)]-> Pakistan administered Kashmir(type=Node)",
+            "Imran Khan(type=Node) -[Make statement(start_time=2019-07,end_time=2019-07)]-> Pakistan administered Kashmir(type=Node)",
+            "Domestic Affairs (Pakistan)(type=Node) -[Make statement(start_time=2005-10,end_time=2005-10)]-> Pakistan administered Kashmir(type=Node)"
+        ],
+        "ref_wiki_node": "Kashmir",
+        "ref_wiki_node_relations": [
+            "Kashmir(type=Node) -[country(start_time=~,end_time=1900-00)]-> Kashmir(type=Node)",
+            "Kashmir(type=Node) -[country(start_time=~,end_time=1900-00)]-> Kashmir(type=Node)",
+            "Kashmir(type=Node) -[located on terrain feature(start_time=~,end_time=~)]-> South Asia(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Pakistan",
+                "similarity": 0.8294047713279724,
+                "wiki_node_relations": [
+                    "Khurshid Mahmud Kasuri(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Pakistan(type=Node)",
+                    "Vietnam(type=Node) -[diplomatic relation(start_time=~,end_time=~)]-> Pakistan(type=Node)",
+                    "Pakistan(type=Node) -[diplomatic relation(start_time=~,end_time=~)]-> Belarus(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Kashmir",
+                "similarity": 0.8050587177276611,
+                "wiki_node_relations": [
+                    "Kashmir(type=Node) -[country(start_time=~,end_time=1900-00)]-> Kashmir(type=Node)",
+                    "Kashmir(type=Node) -[country(start_time=~,end_time=1900-00)]-> Kashmir(type=Node)",
+                    "Kashmir(type=Node) -[located on terrain feature(start_time=~,end_time=~)]-> South Asia(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Napoleon Bonaparte",
+        "icews_node_relations": [
+            "High Ranking Military Personnel (Indonesia)(type=Node) -[Make statement(start_time=2021-09,end_time=2021-09)]-> Napoleon Bonaparte(type=Node)",
+            "Imran Khan(type=Node) -[Make statement(start_time=2018-11,end_time=2018-11)]-> Napoleon Bonaparte(type=Node)"
+        ],
+        "ref_wiki_node": "Napoleon",
+        "ref_wiki_node_relations": [
+            "Napoleon(type=Node) -[occupation(start_time=~,end_time=~)]-> Statesman(type=Node)",
+            "Bonaparte at the Pont d'Arcole(type=Node) -[depicts(start_time=~,end_time=~)]-> Napoleon(type=Node)",
+            "Napoleon(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Lucien Bonaparte",
+                "similarity": 0.8719235062599182,
+                "wiki_node_relations": [
+                    "Lucien Bonaparte(type=Node) -[described by source(start_time=~,end_time=~)]-> Brockhaus and Efron Encyclopedic Dictionary(type=Node)",
+                    "Lucien Bonaparte(type=Node) -[member of(start_time=1803-01,end_time=~)]-> Academie Francaise(type=Node)",
+                    "Lucien Bonaparte(type=Node) -[position held(start_time=~,end_time=~)]-> Deputy (France)(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Bonaparte Crossing the Alps",
+                "similarity": 0.8700408339500427,
+                "wiki_node_relations": [
+                    "Bonaparte Crossing the Alps(type=Node) -[owned by(start_time=1982-00,end_time=~)]-> France(type=Node)",
+                    "Bonaparte Crossing the Alps(type=Node) -[depicts(start_time=~,end_time=~)]-> Napoleon(type=Node)",
+                    "France(type=Node) -[owner of(start_time=~,end_time=~)]-> Bonaparte Crossing the Alps(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Bonaparte at the Pont d'Arcole",
+                "similarity": 0.8204808235168457,
+                "wiki_node_relations": [
+                    "Bonaparte at the Pont d'Arcole(type=Node) -[depicts(start_time=~,end_time=~)]-> Napoleon(type=Node)",
+                    "Bonaparte at the Pont d'Arcole(type=Node) -[owned by(start_time=~,end_time=~)]-> Napoleon(type=Node)",
+                    "Bonaparte at the Pont d'Arcole(type=Node) -[depicts(start_time=~,end_time=~)]-> Officer (armed forces)(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Alexander Vladimirovich Konovalov",
+        "icews_node_relations": [
+            "Alexander Vladimirovich Konovalov(type=Node) -[Make statement(start_time=2015-07,end_time=2015-07)]-> Non-Governmental Organizations(type=Node)",
+            "Kunio Hatoyama(type=Node) -[Consult(start_time=2008-06,end_time=2008-06)]-> Alexander Vladimirovich Konovalov(type=Node)",
+            "Ministry (Switzerland)(type=Node) -[Express intent to meet or negotiate(start_time=2010-10,end_time=2010-10)]-> Alexander Vladimirovich Konovalov(type=Node)"
+        ],
+        "ref_wiki_node": "Aleksandr Konovalov (politician, born 1968)",
+        "ref_wiki_node_relations": [
+            "Aleksandr Konovalov (politician, born 1968)(type=Node) -[place of birth(start_time=~,end_time=~)]-> Saint Petersburg(type=Node)",
+            "Aleksandr Konovalov (politician, born 1968)(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+            "Aleksandr Konovalov (politician, born 1968)(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Vladimir Anatolyevich Yakovlev",
+                "similarity": 0.8634538650512695,
+                "wiki_node_relations": [
+                    "Vladimir Anatolyevich Yakovlev(type=Node) -[member of political party(start_time=~,end_time=~)]-> Communist Party of the Soviet Union(type=Node)",
+                    "Vladimir Anatolyevich Yakovlev(type=Node) -[award received(start_time=~,end_time=~)]-> Grand Officer of the Order of the White Double Cross(type=Node)",
+                    "Vladimir Anatolyevich Yakovlev(type=Node) -[given name(start_time=~,end_time=~)]-> Vladimir(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Nikolai Alexandrovich Morozov",
+                "similarity": 0.8510950207710266,
+                "wiki_node_relations": [
+                    "Nikolai Alexandrovich Morozov(type=Node) -[occupation(start_time=~,end_time=~)]-> Writer(type=Node)",
+                    "Nikolai Alexandrovich Morozov(type=Node) -[educated at(start_time=1871-00,end_time=1872-00)]-> Moscow State University(type=Node)",
+                    "Nikolai Alexandrovich Morozov(type=Node) -[described by source(start_time=~,end_time=~)]-> Brockhaus and Efron Encyclopedic Dictionary(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Vladimir Vasilievich Rusakevich",
+                "similarity": 0.8486305475234985,
+                "wiki_node_relations": [
+                    "Vladimir Vasilievich Rusakevich(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> Russian language(type=Node)",
+                    "Vladimir Vasilievich Rusakevich(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Belarus(type=Node)",
+                    "Vladimir Vasilievich Rusakevich(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> Polish language(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Richard B. Myers",
+        "icews_node_relations": [
+            "Richard B. Myers(type=Node) -[Make statement(start_time=2005-03,end_time=2005-03)]-> Afghanistan(type=Node)",
+            "Turkey(type=Node) -[Host a visit(start_time=2003-01,end_time=2003-01)]-> Richard B. Myers(type=Node)",
+            "Slovakia(type=Node) -[Host a visit(start_time=2001-06,end_time=2001-06)]-> Richard B. Myers(type=Node)"
+        ],
+        "ref_wiki_node": "Richard Myers",
+        "ref_wiki_node_relations": [
+            "Richard Myers(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+            "Richard Myers(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+            "Richard Myers(type=Node) -[award received(start_time=~,end_time=~)]-> Air Medal(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Robert B. Wilson",
+                "similarity": 0.8826389312744141,
+                "wiki_node_relations": [
+                    "Robert B. Wilson(type=Node) -[employer(start_time=1964-00,end_time=2004-00)]-> Stanford University(type=Node)",
+                    "Bengt Holmstrom(type=Node) -[doctoral advisor(start_time=~,end_time=~)]-> Robert B. Wilson(type=Node)",
+                    "Robert B. Wilson(type=Node) -[educated at(start_time=~,end_time=1961-00)]-> Harvard Business School(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Richard Myers",
+                "similarity": 0.8821066617965698,
+                "wiki_node_relations": [
+                    "Richard Myers(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Richard Myers(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Richard Myers(type=Node) -[award received(start_time=~,end_time=~)]-> Air Medal(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Robert Douglas Nicholson",
+        "icews_node_relations": [
+            "Attorney General (Canada)(type=Node) -[Make an appeal or request(start_time=2008-03,end_time=2008-03)]-> Robert Douglas Nicholson(type=Node)",
+            "Attorney (Canada)(type=Node) -[Make statement(start_time=2007-09,end_time=2007-09)]-> Robert Douglas Nicholson(type=Node)",
+            "Robert Douglas Nicholson(type=Node) -[Consult(start_time=2010-01,end_time=2010-01)]-> Stephen Harper(type=Node)"
+        ],
+        "ref_wiki_node": "Rob Nicholson",
+        "ref_wiki_node_relations": [
+            "Rob Nicholson(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+            "Rob Nicholson(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+            "Rob Nicholson(type=Node) -[educated at(start_time=~,end_time=~)]-> Queen's University at Kingston(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Richard Douglas Lane",
+                "similarity": 0.8471588492393494,
+                "wiki_node_relations": [
+                    "Richard Douglas Lane(type=Node) -[occupation(start_time=~,end_time=~)]-> Journalist(type=Node)",
+                    "Richard Douglas Lane(type=Node) -[military branch(start_time=1944-00,end_time=1946-00)]-> United States Marine Corps(type=Node)",
+                    "Richard Douglas Lane(type=Node) -[place of birth(start_time=~,end_time=~)]-> Florida(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Rob Nicholson",
+                "similarity": 0.8105552792549133,
+                "wiki_node_relations": [
+                    "Rob Nicholson(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+                    "Rob Nicholson(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Rob Nicholson(type=Node) -[educated at(start_time=~,end_time=~)]-> Queen's University at Kingston(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Turki bin Abdullah",
+        "icews_node_relations": [
+            "Turki bin Abdullah(type=Node) -[Coerce(start_time=2014-01,end_time=2014-01)]-> Citizen (Saudi Arabia)(type=Node)"
+        ],
+        "ref_wiki_node": "Turki bin Abdullah Al Saud (1755\u20131834)",
+        "ref_wiki_node_relations": [
+            "Turki bin Abdullah Al Saud (1755\u20131834)(type=Node) -[religion(start_time=~,end_time=~)]-> Islam(type=Node)",
+            "Turki bin Abdullah Al Saud (1755\u20131834)(type=Node) -[place of burial(start_time=1834-05,end_time=1834-05)]-> Al Oud cemetery(type=Node)",
+            "Turki bin Abdullah Al Saud (1755\u20131834)(type=Node) -[position held(start_time=1825-01,end_time=1834-05)]-> King of Saudi Arabia(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Turki bin Faisal Al Saud",
+                "similarity": 0.8867074847221375,
+                "wiki_node_relations": [
+                    "Turki bin Faisal Al Saud(type=Node) -[educated at(start_time=~,end_time=~)]-> Georgetown University(type=Node)",
+                    "Khalid bin Faisal Al Saud(type=Node) -[sibling(start_time=~,end_time=~)]-> Turki bin Faisal Al Saud(type=Node)",
+                    "Turki bin Faisal Al Saud(type=Node) -[sibling(start_time=~,end_time=~)]-> Khalid bin Faisal Al Saud(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Turki bin Abdullah Al Saud (1755\u20131834)",
+                "similarity": 0.8123899698257446,
+                "wiki_node_relations": [
+                    "Turki bin Abdullah Al Saud (1755\u20131834)(type=Node) -[religion(start_time=~,end_time=~)]-> Islam(type=Node)",
+                    "Turki bin Abdullah Al Saud (1755\u20131834)(type=Node) -[place of burial(start_time=1834-05,end_time=1834-05)]-> Al Oud cemetery(type=Node)",
+                    "Turki bin Abdullah Al Saud (1755\u20131834)(type=Node) -[position held(start_time=1825-01,end_time=1834-05)]-> King of Saudi Arabia(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Gilberto Passos Gil Moreira",
+        "icews_node_relations": [
+            "Gilberto Passos Gil Moreira(type=Node) -[Make statement(start_time=2007-01,end_time=2007-01)]-> Luiz Inacio Lula Da Silva(type=Node)",
+            "Gilberto Passos Gil Moreira(type=Node) -[Sign formal agreement(start_time=2005-02,end_time=2005-02)]-> Abel Prieto(type=Node)",
+            "Luiz Inacio Lula Da Silva(type=Node) -[Make an appeal or request(start_time=2008-07,end_time=2008-07)]-> Gilberto Passos Gil Moreira(type=Node)"
+        ],
+        "ref_wiki_node": "Gilberto Gil",
+        "ref_wiki_node_relations": [
+            "Gilberto Gil(type=Node) -[award received(start_time=2003-00,end_time=2003-00)]-> Grand Cross of the Order of Prince Henry(type=Node)",
+            "Gilberto Gil(type=Node) -[award received(start_time=1997-00,end_time=1997-00)]-> Ordre national du Merite(type=Node)",
+            "Gilberto Gil(type=Node) -[position held(start_time=~,end_time=~)]-> Minister (government)(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Gilberto Pereira",
+                "similarity": 0.8713338971138,
+                "wiki_node_relations": [
+                    "Gilberto Pereira(type=Node) -[country for sport(start_time=~,end_time=~)]-> Brazil(type=Node)",
+                    "Gilberto Pereira(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Gilberto Pereira(type=Node) -[occupation(start_time=~,end_time=~)]-> Football player(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Gilberto Gil",
+                "similarity": 0.8509665727615356,
+                "wiki_node_relations": [
+                    "Gilberto Gil(type=Node) -[award received(start_time=2003-00,end_time=2003-00)]-> Grand Cross of the Order of Prince Henry(type=Node)",
+                    "Gilberto Gil(type=Node) -[award received(start_time=1997-00,end_time=1997-00)]-> Ordre national du Merite(type=Node)",
+                    "Gilberto Gil(type=Node) -[position held(start_time=~,end_time=~)]-> Minister (government)(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "National Congress Party",
+        "icews_node_relations": [
+            "Democratic Unionist Party(type=Node) -[Make statement(start_time=2013-07,end_time=2013-07)]-> National Congress Party(type=Node)",
+            "Armed Separatist (Sudan)(type=Node) -[Reject plan, agreement to settle dispute(start_time=2010-10,end_time=2010-10)]-> National Congress Party(type=Node)",
+            "Sudan Liberation Movement(type=Node) -[Criticize or denounce(start_time=2010-11,end_time=2010-11)]-> National Congress Party(type=Node)"
+        ],
+        "ref_wiki_node": "Indian National Congress",
+        "ref_wiki_node_relations": [
+            "Chandra Shekhar(type=Node) -[member of political party(start_time=~,end_time=~)]-> Indian National Congress(type=Node)",
+            "H. D. Deve Gowda(type=Node) -[member of political party(start_time=~,end_time=~)]-> Indian National Congress(type=Node)",
+            "Pranab Mukherjee(type=Node) -[member of political party(start_time=~,end_time=~)]-> Indian National Congress(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "National Party of Australia",
+                "similarity": 0.8621824979782104,
+                "wiki_node_relations": [
+                    "Arthur Fadden(type=Node) -[member of political party(start_time=~,end_time=~)]-> National Party of Australia(type=Node)",
+                    "Earle Page(type=Node) -[member of political party(start_time=~,end_time=~)]-> National Party of Australia(type=Node)",
+                    "Mac Holten(type=Node) -[member of political party(start_time=~,end_time=~)]-> National Party of Australia(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Nationalist Movement Party",
+                "similarity": 0.8596236109733582,
+                "wiki_node_relations": [
+                    "Ekmeleddin lhsanoglu(type=Node) -[member of political party(start_time=~,end_time=~)]-> Nationalist Movement Party(type=Node)",
+                    "Nationalist Movement Party(type=Node) -[country(start_time=~,end_time=~)]-> Turkey(type=Node)",
+                    "Nationalist Movement Party(type=Node) -[instance of(start_time=~,end_time=~)]-> Political party(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "New Zealand National Party",
+                "similarity": 0.8561583161354065,
+                "wiki_node_relations": [
+                    "\u0100pirana Ngata(type=Node) -[member of political party(start_time=1935-01,end_time=~)]-> New Zealand National Party(type=Node)",
+                    "New Zealand National Party(type=Node) -[chairperson(start_time=~,end_time=~)]-> John Key(type=Node)",
+                    "Bill English(type=Node) -[member of political party(start_time=~,end_time=~)]-> New Zealand National Party(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Charles E. Schumer",
+        "icews_node_relations": [
+            "Charles E. Schumer(type=Node) -[Make statement(start_time=2011-09,end_time=2011-09)]-> China(type=Node)",
+            "China(type=Node) -[Host a visit(start_time=2006-03,end_time=2006-03)]-> Charles E. Schumer(type=Node)",
+            "Charles E. Schumer(type=Node) -[Make statement(start_time=2017-05,end_time=2017-05)]-> The Times(type=Node)"
+        ],
+        "ref_wiki_node": "Chuck Schumer",
+        "ref_wiki_node_relations": [
+            "Chuck Schumer(type=Node) -[member of political party(start_time=~,end_time=~)]-> Democratic Party (United States)(type=Node)",
+            "Chuck Schumer(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+            "Chuck Schumer(type=Node) -[work location(start_time=~,end_time=~)]-> Washington, D.C.(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Robert E. Cramer",
+                "similarity": 0.8191688060760498,
+                "wiki_node_relations": [
+                    "Robert E. Cramer(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+                    "Robert E. Cramer(type=Node) -[position held(start_time=1997-01,end_time=1999-01)]-> United States Representative(type=Node)",
+                    "Robert E. Cramer(type=Node) -[position held(start_time=2005-01,end_time=2007-01)]-> United States Representative(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Joseph E. Casey",
+                "similarity": 0.7945097088813782,
+                "wiki_node_relations": [
+                    "Joseph E. Casey(type=Node) -[position held(start_time=~,end_time=~)]-> United States Representative(type=Node)",
+                    "Joseph E. Casey(type=Node) -[work location(start_time=~,end_time=~)]-> Washington, D.C.(type=Node)",
+                    "Joseph E. Casey(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Charles Rangel",
+                "similarity": 0.772939920425415,
+                "wiki_node_relations": [
+                    "Charles Rangel(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "Charles Rangel(type=Node) -[educated at(start_time=~,end_time=1957-00)]-> New York University Stern School of Business(type=Node)",
+                    "Charles Rangel(type=Node) -[position held(start_time=2015-01,end_time=2017-01)]-> United States Representative(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Jaime Jose de Matos da Gama",
+        "icews_node_relations": [
+            "Abdou Diouf(type=Node) -[Consult(start_time=1998-08,end_time=1998-08)]-> Jaime Jose de Matos da Gama(type=Node)",
+            "Jaime Jose de Matos da Gama(type=Node) -[Consult(start_time=1999-10,end_time=1999-10)]-> Felipe Perez Roque(type=Node)",
+            "Jaime Jose de Matos da Gama(type=Node) -[Accuse(start_time=1997-06,end_time=1997-06)]-> Indonesia(type=Node)"
+        ],
+        "ref_wiki_node": "Jaime Gama",
+        "ref_wiki_node_relations": [
+            "Jaime Gama(type=Node) -[member of(start_time=~,end_time=~)]-> Parliamentary Assembly of the Council of Europe(type=Node)",
+            "Jaime Gama(type=Node) -[position held(start_time=~,end_time=~)]-> member of the Assembly of the Republic(type=Node)",
+            "Jaime Gama(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Jose Manuel de la Sota",
+                "similarity": 0.8632072806358337,
+                "wiki_node_relations": [
+                    "Jose Manuel de la Sota(type=Node) -[member of political party(start_time=~,end_time=~)]-> Justicialist Party(type=Node)",
+                    "Jose Manuel de la Sota(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+                    "Jose Manuel de la Sota(type=Node) -[occupation(start_time=~,end_time=~)]-> Lawyer(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Jaime Gama",
+                "similarity": 0.8627867698669434,
+                "wiki_node_relations": [
+                    "Jaime Gama(type=Node) -[member of(start_time=~,end_time=~)]-> Parliamentary Assembly of the Council of Europe(type=Node)",
+                    "Jaime Gama(type=Node) -[position held(start_time=~,end_time=~)]-> member of the Assembly of the Republic(type=Node)",
+                    "Jaime Gama(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Federation Council of Russia",
+        "icews_node_relations": [
+            "Federation Council of Russia(type=Node) -[Engage in diplomatic cooperation(start_time=2012-03,end_time=2012-03)]-> Senate (Kazakhstan)(type=Node)",
+            "Tang Jiaxuan(type=Node) -[Consult(start_time=2007-03,end_time=2007-03)]-> Federation Council of Russia(type=Node)",
+            "Federation Council of Russia(type=Node) -[Make statement(start_time=1998-03,end_time=1998-03)]-> Russia(type=Node)"
+        ],
+        "ref_wiki_node": "Federation Council (Russia)",
+        "ref_wiki_node_relations": [
+            "Federation Council (Russia)(type=Node) -[chairperson(start_time=2011-09,end_time=~)]-> Valentina Matviyenko(type=Node)",
+            "Mikhail Margelov(type=Node) -[member of(start_time=~,end_time=~)]-> Federation Council (Russia)(type=Node)",
+            "Federation Council (Russia)(type=Node) -[country(start_time=~,end_time=~)]-> Russia(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "member of the Federation Council of Russia",
+                "similarity": 0.9070783257484436,
+                "wiki_node_relations": [
+                    "Boris Nemtsov(type=Node) -[position held(start_time=1993-12,end_time=~)]-> member of the Federation Council of Russia(type=Node)",
+                    "Sergei Pugachev(type=Node) -[position held(start_time=~,end_time=~)]-> member of the Federation Council of Russia(type=Node)",
+                    "Viktor Ishayev(type=Node) -[position held(start_time=~,end_time=~)]-> member of the Federation Council of Russia(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Federation Council (Russia)",
+                "similarity": 0.8884516954421997,
+                "wiki_node_relations": [
+                    "Federation Council (Russia)(type=Node) -[chairperson(start_time=2011-09,end_time=~)]-> Valentina Matviyenko(type=Node)",
+                    "Mikhail Margelov(type=Node) -[member of(start_time=~,end_time=~)]-> Federation Council (Russia)(type=Node)",
+                    "Federation Council (Russia)(type=Node) -[country(start_time=~,end_time=~)]-> Russia(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Miguel Angel Rodriguez Echeverria",
+        "icews_node_relations": [
+            "Argentina(type=Node) -[Appeal for change in leadership(start_time=2004-12,end_time=2004-12)]-> Miguel Angel Rodriguez Echeverria(type=Node)",
+            "Head of Government (Brazil)(type=Node) -[Consult(start_time=2000-04,end_time=2000-04)]-> Miguel Angel Rodriguez Echeverria(type=Node)",
+            "Miguel Angel Rodriguez Echeverria(type=Node) -[Criticize or denounce(start_time=1998-07,end_time=1998-07)]-> Government (Algeria)(type=Node)"
+        ],
+        "ref_wiki_node": "Miguel Angel Rodriguez",
+        "ref_wiki_node_relations": [
+            "Miguel Angel Rodriguez(type=Node) -[occupation(start_time=~,end_time=~)]-> Lawyer(type=Node)",
+            "Miguel Angel Rodriguez(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+            "Miguel Angel Rodriguez(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Luis Echeverria",
+                "similarity": 0.8986638784408569,
+                "wiki_node_relations": [
+                    "Luis Echeverria(type=Node) -[award received(start_time=~,end_time=~)]-> Order of the Aztec Eagle(type=Node)",
+                    "Luis Echeverria(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Luis Echeverria(type=Node) -[award received(start_time=~,end_time=~)]-> Decoration of Honour for Services to the Republic of Austria(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Guillermo Gortazar Echevarria",
+                "similarity": 0.8775396943092346,
+                "wiki_node_relations": [
+                    "Pilar del Castillo(type=Node) -[spouse(start_time=~,end_time=~)]-> Guillermo Gortazar Echevarria(type=Node)",
+                    "Guillermo Gortazar Echevarria(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Spain(type=Node)",
+                    "Guillermo Gortazar Echevarria(type=Node) -[position held(start_time=1993-06,end_time=1996-01)]-> Member of the Congress of Deputies(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Miguel Angel Fernandez Ordonez",
+                "similarity": 0.8729131817817688,
+                "wiki_node_relations": [
+                    "Miguel Angel Fernandez Ordonez(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Spain(type=Node)",
+                    "Miguel Angel Fernandez Ordonez(type=Node) -[award received(start_time=~,end_time=~)]-> Grand Cross of the Order of Isabella the Catholic(type=Node)",
+                    "Miguel Angel Fernandez Ordonez(type=Node) -[work location(start_time=~,end_time=~)]-> Madrid(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Joseph Robinette Biden",
+        "icews_node_relations": [
+            "Joseph Robinette Biden(type=Node) -[Make a visit(start_time=2013-07,end_time=2013-07)]-> India(type=Node)",
+            "Joseph Robinette Biden(type=Node) -[Host a visit(start_time=2021-07,end_time=2021-07)]-> Mohammed bin Salman(type=Node)",
+            "Joseph Robinette Biden(type=Node) -[Make a visit(start_time=2021-07,end_time=2021-07)]-> Switzerland(type=Node)"
+        ],
+        "ref_wiki_node": "Joe Biden",
+        "ref_wiki_node_relations": [
+            "Joe Biden(type=Node) -[country for sport(start_time=~,end_time=~)]-> United States(type=Node)",
+            "Joe Biden(type=Node) -[position held(start_time=1970-00,end_time=1972-00)]-> Councillor(type=Node)",
+            "Joe Biden(type=Node) -[handedness(start_time=~,end_time=~)]-> right-handedness(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Joseph Josiah Dodd",
+                "similarity": 0.7790219783782959,
+                "wiki_node_relations": [
+                    "Joseph Josiah Dodd(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Joseph Josiah Dodd(type=Node) -[work location(start_time=1835-00,end_time=1835-00)]-> Paris(type=Node)",
+                    "Joseph Josiah Dodd(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Joseph Jacob Isaacson",
+                "similarity": 0.7734164595603943,
+                "wiki_node_relations": [
+                    "Joseph Jacob Isaacson(type=Node) -[work location(start_time=1905-01,end_time=1905-01)]-> Egypt(type=Node)",
+                    "Joseph Jacob Isaacson(type=Node) -[place of detention(start_time=~,end_time=~)]-> Auschwitz concentration camp(type=Node)",
+                    "Joseph Jacob Isaacson(type=Node) -[place of birth(start_time=~,end_time=~)]-> Amsterdam(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Joe Biden",
+                "similarity": 0.7654176950454712,
+                "wiki_node_relations": [
+                    "Joe Biden(type=Node) -[country for sport(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "Joe Biden(type=Node) -[position held(start_time=1970-00,end_time=1972-00)]-> Councillor(type=Node)",
+                    "Joe Biden(type=Node) -[handedness(start_time=~,end_time=~)]-> right-handedness(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "John W. Warner",
+        "icews_node_relations": [
+            "Iraq(type=Node) -[Host a visit(start_time=2006-10,end_time=2006-10)]-> John W. Warner(type=Node)",
+            "Liberia(type=Node) -[Host a visit(start_time=2003-09,end_time=2003-09)]-> John W. Warner(type=Node)",
+            "John W. Warner(type=Node) -[Consult(start_time=2006-10,end_time=2006-10)]-> Iraq(type=Node)"
+        ],
+        "ref_wiki_node": "John Warner",
+        "ref_wiki_node_relations": [
+            "John Warner(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+            "John Warner(type=Node) -[spouse(start_time=1976-12,end_time=1982-11)]-> Elizabeth Taylor(type=Node)",
+            "John Warner(type=Node) -[position held(start_time=1972-05,end_time=1974-04)]-> United States Secretary of the Navy(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "John W. Dower",
+                "similarity": 0.9095714688301086,
+                "wiki_node_relations": [
+                    "John W. Dower(type=Node) -[educated at(start_time=~,end_time=1959-00)]-> Amherst College(type=Node)",
+                    "John W. Dower(type=Node) -[nominated for(start_time=2010-00,end_time=2010-00)]-> National Book Award for Nonfiction(type=Node)",
+                    "John W. Dower(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "John Warner",
+                "similarity": 0.8946576118469238,
+                "wiki_node_relations": [
+                    "John Warner(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "John Warner(type=Node) -[spouse(start_time=1976-12,end_time=1982-11)]-> Elizabeth Taylor(type=Node)",
+                    "John Warner(type=Node) -[position held(start_time=1972-05,end_time=1974-04)]-> United States Secretary of the Navy(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Joseph F. Dunford, Jr.",
+        "icews_node_relations": [
+            "Joseph F. Dunford, Jr.(type=Node) -[Consult(start_time=2013-06,end_time=2013-06)]-> International(type=Node)",
+            "Joseph F. Dunford, Jr.(type=Node) -[Make a visit(start_time=2013-04,end_time=2013-04)]-> Pakistan(type=Node)",
+            "Pakistan(type=Node) -[Consult(start_time=2014-11,end_time=2014-11)]-> Joseph F. Dunford, Jr.(type=Node)"
+        ],
+        "ref_wiki_node": "Joseph Dunford",
+        "ref_wiki_node_relations": [
+            "Joseph Dunford(type=Node) -[position held(start_time=2010-10,end_time=2012-12)]-> Assistant Commandant of the Marine Corps(type=Node)",
+            "Joseph Dunford(type=Node) -[educated at(start_time=~,end_time=~)]-> Georgetown University(type=Node)",
+            "Joseph Dunford(type=Node) -[position held(start_time=2014-10,end_time=2015-09)]-> Commandant of the Marine Corps(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "James D. Melville Jr.",
+                "similarity": 0.8859767317771912,
+                "wiki_node_relations": [
+                    "James D. Melville Jr.(type=Node) -[work location(start_time=2005-00,end_time=2008-00)]-> Moscow(type=Node)",
+                    "James D. Melville Jr.(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "James D. Melville Jr.(type=Node) -[occupation(start_time=1986-00,end_time=~)]-> Diplomat(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Alfred D. Chandler Jr.",
+                "similarity": 0.8808475136756897,
+                "wiki_node_relations": [
+                    "Alfred D. Chandler Jr.(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+                    "Alfred D. Chandler Jr.(type=Node) -[employer(start_time=~,end_time=~)]-> Massachusetts Institute of Technology(type=Node)",
+                    "Alfred D. Chandler Jr.(type=Node) -[residence(start_time=~,end_time=~)]-> Delaware(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Thomas J. Watson Jr.",
+                "similarity": 0.8784375190734863,
+                "wiki_node_relations": [
+                    "Thomas J. Watson Jr.(type=Node) -[educated at(start_time=~,end_time=~)]-> Brown University(type=Node)",
+                    "Thomas J. Watson Jr.(type=Node) -[cause of death(start_time=~,end_time=~)]-> Stroke(type=Node)",
+                    "Thomas J. Watson Jr.(type=Node) -[position held(start_time=~,end_time=~)]-> Ambassador(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Sergey Yevgenyevich Naryshkin",
+        "icews_node_relations": [
+            "Head of Government (Turkmenistan)(type=Node) -[Consult(start_time=2007-10,end_time=2007-10)]-> Sergey Yevgenyevich Naryshkin(type=Node)",
+            "Organization for Security and Cooperation in Europe(type=Node) -[Express intent to meet or negotiate(start_time=2012-10,end_time=2012-10)]-> Sergey Yevgenyevich Naryshkin(type=Node)",
+            "Sergey Yevgenyevich Naryshkin(type=Node) -[Make statement(start_time=2020-09,end_time=2020-09)]-> United States(type=Node)"
+        ],
+        "ref_wiki_node": "Sergey Naryshkin",
+        "ref_wiki_node_relations": [
+            "Sergey Naryshkin(type=Node) -[field of work(start_time=~,end_time=~)]-> Politics(type=Node)",
+            "Sergey Naryshkin(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+            "Sergey Naryshkin(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Yevgeny Shevchuk",
+                "similarity": 0.9030154347419739,
+                "wiki_node_relations": [
+                    "Yevgeny Shevchuk(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Soviet Union(type=Node)",
+                    "Yevgeny Shevchuk(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Russia(type=Node)",
+                    "Yevgeny Shevchuk(type=Node) -[spouse(start_time=~,end_time=~)]-> Nina Shtanski(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Yevgeny Primakov",
+                "similarity": 0.8931089043617249,
+                "wiki_node_relations": [
+                    "Yevgeny Primakov(type=Node) -[award received(start_time=~,end_time=~)]-> Medal \"In Commemoration of the 850th Anniversary of Moscow\"(type=Node)",
+                    "Yevgeny Primakov(type=Node) -[position held(start_time=1998-09,end_time=1999-05)]-> Prime Minister of Russia(type=Node)",
+                    "Yevgeny Primakov(type=Node) -[member of political party(start_time=~,end_time=~)]-> Communist Party of the Soviet Union(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Sergey Naryshkin",
+                "similarity": 0.8872029185295105,
+                "wiki_node_relations": [
+                    "Sergey Naryshkin(type=Node) -[field of work(start_time=~,end_time=~)]-> Politics(type=Node)",
+                    "Sergey Naryshkin(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Sergey Naryshkin(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Robert M. Gates",
+        "icews_node_relations": [
+            "Robert M. Gates(type=Node) -[Consult(start_time=2010-07,end_time=2010-07)]-> Susilo Bambang Yudhoyono(type=Node)",
+            "Robert M. Gates(type=Node) -[Consult(start_time=2011-03,end_time=2011-03)]-> Head of Government (Afghanistan)(type=Node)",
+            "South Korea(type=Node) -[Host a visit(start_time=2007-10,end_time=2007-10)]-> Robert M. Gates(type=Node)"
+        ],
+        "ref_wiki_node": "Robert Gates",
+        "ref_wiki_node_relations": [
+            "Robert Gates(type=Node) -[occupation(start_time=~,end_time=~)]-> Officer (armed forces)(type=Node)",
+            "Robert Gates(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+            "Robert Gates(type=Node) -[described by source(start_time=~,end_time=~)]-> Lentapedia(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Robert C. Murphy",
+                "similarity": 0.8868224620819092,
+                "wiki_node_relations": [
+                    "Robert C. Murphy(type=Node) -[academic degree(start_time=1970-00,end_time=1970-00)]-> Doctor of Philosophy(type=Node)",
+                    "Robert C. Murphy(type=Node) -[work location(start_time=~,end_time=~)]-> Denver(type=Node)",
+                    "Robert C. Murphy(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Robert H. Michel",
+                "similarity": 0.8864204287528992,
+                "wiki_node_relations": [
+                    "Robert H. Michel(type=Node) -[position held(start_time=1993-01,end_time=1995-01)]-> United States Representative(type=Node)",
+                    "Robert H. Michel(type=Node) -[conflict(start_time=~,end_time=~)]-> World War II(type=Node)",
+                    "Robert H. Michel(type=Node) -[position held(start_time=1991-01,end_time=1993-01)]-> United States Representative(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Robert S. Langer",
+                "similarity": 0.885664701461792,
+                "wiki_node_relations": [
+                    "Robert S. Langer(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Robert S. Langer(type=Node) -[occupation(start_time=~,end_time=~)]-> university teacher(type=Node)",
+                    "National Medal of Technology and Innovation(type=Node) -[winner(start_time=2011-00,end_time=2011-00)]-> Robert S. Langer(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Melvin L. Watt",
+        "icews_node_relations": [
+            "Member of Parliament (Australia)(type=Node) -[Make an appeal or request(start_time=2020-10,end_time=2020-10)]-> Melvin L. Watt(type=Node)",
+            "Melvin L. Watt(type=Node) -[Make statement(start_time=2017-11,end_time=2017-11)]-> Green Party (Australia)(type=Node)"
+        ],
+        "ref_wiki_node": "Mel Watt",
+        "ref_wiki_node_relations": [
+            "Mel Watt(type=Node) -[work location(start_time=~,end_time=~)]-> Washington, D.C.(type=Node)",
+            "Mel Watt(type=Node) -[position held(start_time=1997-01,end_time=1999-01)]-> United States Representative(type=Node)",
+            "Mel Watt(type=Node) -[position held(start_time=1999-01,end_time=2001-01)]-> United States Representative(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "James D. Melville Jr.",
+                "similarity": 0.8410038352012634,
+                "wiki_node_relations": [
+                    "James D. Melville Jr.(type=Node) -[work location(start_time=2005-00,end_time=2008-00)]-> Moscow(type=Node)",
+                    "James D. Melville Jr.(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "James D. Melville Jr.(type=Node) -[occupation(start_time=1986-00,end_time=~)]-> Diplomat(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Michael L. Littman",
+                "similarity": 0.8339896202087402,
+                "wiki_node_relations": [
+                    "Michael L. Littman(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "Michael L. Littman(type=Node) -[employer(start_time=2002-00,end_time=2012-00)]-> Rutgers University(type=Node)",
+                    "Michael L. Littman(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Mel Watt",
+                "similarity": 0.83182692527771,
+                "wiki_node_relations": [
+                    "Mel Watt(type=Node) -[work location(start_time=~,end_time=~)]-> Washington, D.C.(type=Node)",
+                    "Mel Watt(type=Node) -[position held(start_time=1997-01,end_time=1999-01)]-> United States Representative(type=Node)",
+                    "Mel Watt(type=Node) -[position held(start_time=1999-01,end_time=2001-01)]-> United States Representative(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Boris Vyacheslavovich Gryzlov",
+        "icews_node_relations": [
+            "Sweden(type=Node) -[Host a visit(start_time=2001-04,end_time=2001-04)]-> Boris Vyacheslavovich Gryzlov(type=Node)",
+            "Boris Vyacheslavovich Gryzlov(type=Node) -[Make statement(start_time=2005-01,end_time=2005-01)]-> Lower House of Parliament (Russia)(type=Node)",
+            "Boris Vyacheslavovich Gryzlov(type=Node) -[Express intent to meet or negotiate(start_time=2007-04,end_time=2007-04)]-> Angela Merkel(type=Node)"
+        ],
+        "ref_wiki_node": "Boris Gryzlov",
+        "ref_wiki_node_relations": [
+            "Boris Gryzlov(type=Node) -[work location(start_time=~,end_time=~)]-> Moscow(type=Node)",
+            "Boris Gryzlov(type=Node) -[award received(start_time=~,end_time=~)]-> Order of Honour (Russia)(type=Node)",
+            "Boris Gryzlov(type=Node) -[award received(start_time=~,end_time=~)]-> Order \"For Merit to the Fatherland\" III class(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Vyacheslav Bazylevych",
+                "similarity": 0.8934450149536133,
+                "wiki_node_relations": [
+                    "Vyacheslav Bazylevych(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Ukraine(type=Node)",
+                    "Vyacheslav Bazylevych(type=Node) -[place of birth(start_time=~,end_time=~)]-> Simferopol(type=Node)",
+                    "Vyacheslav Bazylevych(type=Node) -[country of citizenship(start_time=2014-00,end_time=~)]-> Russia(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Boris Gryzlov",
+                "similarity": 0.8833818435668945,
+                "wiki_node_relations": [
+                    "Boris Gryzlov(type=Node) -[work location(start_time=~,end_time=~)]-> Moscow(type=Node)",
+                    "Boris Gryzlov(type=Node) -[award received(start_time=~,end_time=~)]-> Order of Honour (Russia)(type=Node)",
+                    "Boris Gryzlov(type=Node) -[award received(start_time=~,end_time=~)]-> Order \"For Merit to the Fatherland\" III class(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Ramzan Akhmadovich Kadyrov",
+        "icews_node_relations": [
+            "Ramzan Akhmadovich Kadyrov(type=Node) -[Make statement(start_time=2004-08,end_time=2004-08)]-> Police (Russia)(type=Node)",
+            "Yunus-Bek Yevkurov(type=Node) -[Make statement(start_time=2012-08,end_time=2012-08)]-> Ramzan Akhmadovich Kadyrov(type=Node)",
+            "Ramzan Akhmadovich Kadyrov(type=Node) -[Make an appeal or request(start_time=2021-12,end_time=2021-12)]-> Foreign Affairs (Russia)(type=Node)"
+        ],
+        "ref_wiki_node": "Ramzan Kadyrov",
+        "ref_wiki_node_relations": [
+            "Ramzan Kadyrov(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+            "Ramzan Kadyrov(type=Node) -[father(start_time=~,end_time=~)]-> Akhmad Kadyrov(type=Node)",
+            "Ramzan Kadyrov(type=Node) -[religion(start_time=~,end_time=~)]-> Sunni Islam(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Akhmad Kadyrov",
+                "similarity": 0.9435358047485352,
+                "wiki_node_relations": [
+                    "Akhmad Kadyrov(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Ramzan Kadyrov(type=Node) -[father(start_time=~,end_time=~)]-> Akhmad Kadyrov(type=Node)",
+                    "Akhmad Kadyrov(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Soviet Union(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Ramzan Kadyrov",
+                "similarity": 0.9383267164230347,
+                "wiki_node_relations": [
+                    "Ramzan Kadyrov(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+                    "Ramzan Kadyrov(type=Node) -[father(start_time=~,end_time=~)]-> Akhmad Kadyrov(type=Node)",
+                    "Ramzan Kadyrov(type=Node) -[religion(start_time=~,end_time=~)]-> Sunni Islam(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Canadian Forces Land Force Command",
+        "icews_node_relations": [
+            "Canadian Forces Land Force Command(type=Node) -[Express intent to meet or negotiate(start_time=2016-11,end_time=2016-11)]-> Ukraine(type=Node)",
+            "Canadian Forces Land Force Command(type=Node) -[Express intent to meet or negotiate(start_time=2016-11,end_time=2016-11)]-> Latvia(type=Node)",
+            "Canadian Forces Land Force Command(type=Node) -[Express intent to meet or negotiate(start_time=2018-05,end_time=2018-05)]-> Raimonds Bergmanis(type=Node)"
+        ],
+        "ref_wiki_node": "Canadian Army",
+        "ref_wiki_node_relations": [
+            "Canadian Armed Forces(type=Node) -[has part(start_time=~,end_time=~)]-> Canadian Army(type=Node)",
+            "John de Chastelain(type=Node) -[military branch(start_time=~,end_time=~)]-> Canadian Army(type=Node)",
+            "Sydney Chilton Mewburn(type=Node) -[military branch(start_time=~,end_time=~)]-> Canadian Army(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Canadian Armed Forces",
+                "similarity": 0.7988961935043335,
+                "wiki_node_relations": [
+                    "Canadian Armed Forces(type=Node) -[has part(start_time=~,end_time=~)]-> Canadian Army(type=Node)",
+                    "Jonathan Vance(type=Node) -[commander of(start_time=2015-07,end_time=~)]-> Canadian Armed Forces(type=Node)",
+                    "John de Chastelain(type=Node) -[member of(start_time=1956-00,end_time=1995-00)]-> Canadian Armed Forces(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "United States Army Command and General Staff College",
+                "similarity": 0.7965583801269531,
+                "wiki_node_relations": [
+                    "Antonio Domingo Bussi(type=Node) -[educated at(start_time=~,end_time=~)]-> United States Army Command and General Staff College(type=Node)",
+                    "Andrew Goodpaster(type=Node) -[educated at(start_time=~,end_time=~)]-> United States Army Command and General Staff College(type=Node)",
+                    "Joseph Ralston(type=Node) -[educated at(start_time=~,end_time=~)]-> United States Army Command and General Staff College(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Russian Ground Forces",
+                "similarity": 0.7791157960891724,
+                "wiki_node_relations": [
+                    "North Caucasus Military District(type=Node) -[part of(start_time=~,end_time=~)]-> Russian Ground Forces(type=Node)",
+                    "Russian Ground Forces(type=Node) -[conflict(start_time=~,end_time=~)]-> First Chechen War(type=Node)",
+                    "Russian Ground Forces(type=Node) -[conflict(start_time=~,end_time=~)]-> Second Chechen War(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Konstantinos Chatzidakis",
+        "icews_node_relations": [
+            "Antonis Samaras(type=Node) -[Consult(start_time=2012-07,end_time=2012-07)]-> Konstantinos Chatzidakis(type=Node)",
+            "Konstantinos Chatzidakis(type=Node) -[Make statement(start_time=2012-06,end_time=2012-06)]-> Government (Belgium)(type=Node)",
+            "Konstantinos Chatzidakis(type=Node) -[Consult(start_time=2012-09,end_time=2012-09)]-> European Commission(type=Node)"
+        ],
+        "ref_wiki_node": "Kostis Hatzidakis",
+        "ref_wiki_node_relations": [
+            "Kostis Hatzidakis(type=Node) -[work location(start_time=~,end_time=~)]-> City of Brussels(type=Node)",
+            "Kostis Hatzidakis(type=Node) -[position held(start_time=1994-07,end_time=1999-07)]-> Member of the European Parliament(type=Node)",
+            "Kostis Hatzidakis(type=Node) -[position held(start_time=2015-10,end_time=~)]-> member of the Hellenic Parliament(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Konstantinos Vousakis",
+                "similarity": 0.8811364769935608,
+                "wiki_node_relations": [
+                    "Konstantinos Vousakis(type=Node) -[educated at(start_time=~,end_time=1847-00)]-> University of Paris(type=Node)",
+                    "Konstantinos Vousakis(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Greece(type=Node)",
+                    "Konstantinos Vousakis(type=Node) -[educated at(start_time=~,end_time=~)]-> National and Kapodistrian University of Athens(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Konstantinos Tsatsos",
+                "similarity": 0.8781036734580994,
+                "wiki_node_relations": [
+                    "Konstantinos Tsatsos(type=Node) -[position held(start_time=1967-04,end_time=1967-04)]-> Minister of Justice of Greece(type=Node)",
+                    "Konstantinos Tsatsos(type=Node) -[employer(start_time=1930-00,end_time=~)]-> National and Kapodistrian University of Athens(type=Node)",
+                    "Konstantinos Tsatsos(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Konstantinos Rallis",
+                "similarity": 0.877263605594635,
+                "wiki_node_relations": [
+                    "Konstantinos Rallis(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> Modern Greek(type=Node)",
+                    "Konstantinos Rallis(type=Node) -[occupation(start_time=~,end_time=~)]-> Jurist(type=Node)",
+                    "Konstantinos Rallis(type=Node) -[ethnic group(start_time=~,end_time=~)]-> Greeks(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Raul Gonzalez",
+        "icews_node_relations": [
+            "Raul Gonzalez(type=Node) -[Make statement(start_time=2006-09,end_time=2006-09)]-> Business (Philippines)(type=Node)",
+            "Raul Gonzalez(type=Node) -[Make statement(start_time=2005-04,end_time=2005-04)]-> Head of Government (Philippines)(type=Node)",
+            "Undersecretary (Philippines)(type=Node) -[Make an appeal or request(start_time=2009-02,end_time=2009-02)]-> Raul Gonzalez(type=Node)"
+        ],
+        "ref_wiki_node": "Raul (footballer)",
+        "ref_wiki_node_relations": [
+            "Raul (footballer)(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+            "Raul (footballer)(type=Node) -[member of sports team(start_time=1994-01,end_time=1994-01)]-> Spain national under-18 football team(type=Node)",
+            "Raul (footballer)(type=Node) -[award received(start_time=2001-00,end_time=2001-00)]-> Pichichi Trophy(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Raul Castro",
+                "similarity": 0.9061994552612305,
+                "wiki_node_relations": [
+                    "Raul Castro(type=Node) -[described by source(start_time=~,end_time=~)]-> Lentapedia(type=Node)",
+                    "Alejandro Castro Espin(type=Node) -[father(start_time=~,end_time=~)]-> Raul Castro(type=Node)",
+                    "Raul Castro(type=Node) -[award received(start_time=~,end_time=~)]-> Order of Holy Prince Daniel of Moscow(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Raul Malk",
+                "similarity": 0.8911618590354919,
+                "wiki_node_relations": [
+                    "Raul Malk(type=Node) -[position held(start_time=1998-10,end_time=1999-03)]-> Minister of Foreign Affairs (Estonia)(type=Node)",
+                    "Raul Malk(type=Node) -[occupation(start_time=~,end_time=~)]-> Diplomat(type=Node)",
+                    "Raul Malk(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Raul Moreno Montana",
+                "similarity": 0.8803655505180359,
+                "wiki_node_relations": [
+                    "Raul Moreno Montana(type=Node) -[position held(start_time=2015-10,end_time=2017-10)]-> Member of the Parliament of Catalonia(type=Node)",
+                    "Raul Moreno Montana(type=Node) -[member of political party(start_time=1998-00,end_time=~)]-> Socialists' Party of Catalonia(type=Node)",
+                    "Raul Moreno Montana(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Die Linke",
+        "icews_node_relations": [
+            "Die Linke(type=Node) -[Make a visit(start_time=2015-06,end_time=2015-06)]-> For Social Democracy(type=Node)",
+            "Die Linke(type=Node) -[Demonstrate or rally(start_time=2015-06,end_time=2015-06)]-> Unspecified Actor(type=Node)",
+            "Die Linke(type=Node) -[Make statement(start_time=2018-06,end_time=2018-06)]-> Organization for Security and Cooperation in Europe(type=Node)"
+        ],
+        "ref_wiki_node": "The Left (Germany)",
+        "ref_wiki_node_relations": [
+            "Katja Kipping(type=Node) -[member of political party(start_time=~,end_time=~)]-> The Left (Germany)(type=Node)",
+            "Diana Golze(type=Node) -[member of political party(start_time=2007-06,end_time=~)]-> The Left (Germany)(type=Node)",
+            "Anne Helm (politician)(type=Node) -[member of political party(start_time=2016-01,end_time=~)]-> The Left (Germany)(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Forum Demokratische Linke 21",
+                "similarity": 0.7486799955368042,
+                "wiki_node_relations": [
+                    "Forum Demokratische Linke 21(type=Node) -[headquarters location(start_time=~,end_time=~)]-> Berlin(type=Node)",
+                    "Forum Demokratische Linke 21(type=Node) -[country(start_time=~,end_time=~)]-> Germany(type=Node)",
+                    "Forum Demokratische Linke 21(type=Node) -[chairperson(start_time=2000-00,end_time=2008-00)]-> Andrea Nahles(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Der Spiegel",
+                "similarity": 0.7013153433799744,
+                "wiki_node_relations": [
+                    "Der Spiegel(type=Node) -[language of work or name(start_time=~,end_time=~)]-> German language(type=Node)",
+                    "Der Spiegel(type=Node) -[country of origin(start_time=~,end_time=~)]-> Germany(type=Node)",
+                    "Beate Lakotta(type=Node) -[employer(start_time=2000-00,end_time=~)]-> Der Spiegel(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Helmut Brandt (CDU politician in East Germany)",
+                "similarity": 0.700129508972168,
+                "wiki_node_relations": [
+                    "Helmut Brandt (CDU politician in East Germany)(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> East Germany(type=Node)",
+                    "Helmut Brandt (CDU politician in East Germany)(type=Node) -[member of political party(start_time=1977-00,end_time=~)]-> Christian Social Union in Bavaria(type=Node)",
+                    "Helmut Brandt (CDU politician in East Germany)(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Germany(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "R. Glenn Hubbard",
+        "icews_node_relations": [
+            "R. Glenn Hubbard(type=Node) -[Demand(start_time=2002-03,end_time=2002-03)]-> Government Affiliated Bank (Japan)(type=Node)"
+        ],
+        "ref_wiki_node": "Glenn Hubbard (economist)",
+        "ref_wiki_node_relations": [
+            "Glenn Hubbard (economist)(type=Node) -[employer(start_time=~,end_time=~)]-> Columbia University(type=Node)",
+            "Glenn Hubbard (economist)(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+            "Glenn Hubbard (economist)(type=Node) -[academic degree(start_time=~,end_time=~)]-> Doctorate(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "R. Nicholas Burns",
+                "similarity": 0.8496809601783752,
+                "wiki_node_relations": [
+                    "R. Nicholas Burns(type=Node) -[award received(start_time=~,end_time=~)]-> Order of the Three Stars(type=Node)",
+                    "R. Nicholas Burns(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "R. Nicholas Burns(type=Node) -[occupation(start_time=~,end_time=~)]-> Diplomat(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Glenn Hubbard (economist)",
+                "similarity": 0.8442921042442322,
+                "wiki_node_relations": [
+                    "Glenn Hubbard (economist)(type=Node) -[employer(start_time=~,end_time=~)]-> Columbia University(type=Node)",
+                    "Glenn Hubbard (economist)(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Glenn Hubbard (economist)(type=Node) -[academic degree(start_time=~,end_time=~)]-> Doctorate(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Paulo de Sacadura Cabral Portas",
+        "icews_node_relations": [
+            "Yang Jiechi(type=Node) -[Express intent to meet or negotiate(start_time=2012-06,end_time=2012-06)]-> Paulo de Sacadura Cabral Portas(type=Node)",
+            "Paulo de Sacadura Cabral Portas(type=Node) -[Make optimistic comment(start_time=2011-07,end_time=2011-07)]-> Foreign Affairs (Angola)(type=Node)",
+            "Donald Rumsfeld(type=Node) -[Express intent to meet or negotiate(start_time=2003-06,end_time=2003-06)]-> Paulo de Sacadura Cabral Portas(type=Node)"
+        ],
+        "ref_wiki_node": "Paulo Portas",
+        "ref_wiki_node_relations": [
+            "2013 Bilderberg Conference(type=Node) -[participant(start_time=~,end_time=~)]-> Paulo Portas(type=Node)",
+            "Paulo Portas(type=Node) -[position held(start_time=1999-07,end_time=1999-11)]-> Member of the European Parliament(type=Node)",
+            "Paulo Portas(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Portugal(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Alejandro Maria Aguado, 1st Marquess of Marismas del Guadalquivir",
+                "similarity": 0.8301128149032593,
+                "wiki_node_relations": [
+                    "Alejandro Maria Aguado, 1st Marquess of Marismas del Guadalquivir(type=Node) -[significant event(start_time=~,end_time=~)]-> Funeral(type=Node)",
+                    "Alejandro Maria Aguado, 1st Marquess of Marismas del Guadalquivir(type=Node) -[country of citizenship(start_time=1828-01,end_time=~)]-> France(type=Node)",
+                    "Alejandro Maria Aguado, 1st Marquess of Marismas del Guadalquivir(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Rosy de Macedo Pinheiro Lima",
+                "similarity": 0.8240761160850525,
+                "wiki_node_relations": [
+                    "Rosy de Macedo Pinheiro Lima(type=Node) -[occupation(start_time=~,end_time=~)]-> Journalist(type=Node)",
+                    "Rosy de Macedo Pinheiro Lima(type=Node) -[educated at(start_time=~,end_time=1937-01)]-> Federal University of Rio de Janeiro(type=Node)",
+                    "Rosy de Macedo Pinheiro Lima(type=Node) -[occupation(start_time=~,end_time=~)]-> Writer(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Plinio de Arruda Sampaio",
+                "similarity": 0.8225923180580139,
+                "wiki_node_relations": [
+                    "Plinio de Arruda Sampaio(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Plinio de Arruda Sampaio(type=Node) -[place of death(start_time=~,end_time=~)]-> Sao Paulo(type=Node)",
+                    "Plinio de Arruda Sampaio(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "United States Pacific Command",
+        "icews_node_relations": [
+            "United States Pacific Command(type=Node) -[Make statement(start_time=2001-11,end_time=2001-11)]-> Thailand(type=Node)",
+            "United States Pacific Command(type=Node) -[Make empathetic comment(start_time=2001-07,end_time=2001-07)]-> Citizen (Japan)(type=Node)",
+            "Philippines(type=Node) -[Host a visit(start_time=2002-04,end_time=2002-04)]-> United States Pacific Command(type=Node)"
+        ],
+        "ref_wiki_node": "United States Indo-Pacific Command",
+        "ref_wiki_node_relations": [
+            "United States Indo-Pacific Command(type=Node) -[director/manager(start_time=1985-09,end_time=1988-09)]-> Ronald J. Hays(type=Node)",
+            "United States Indo-Pacific Command(type=Node) -[country(start_time=~,end_time=~)]-> United States(type=Node)",
+            "United States Indo-Pacific Command(type=Node) -[director/manager(start_time=1968-07,end_time=1972-09)]-> John S. McCain Jr.(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "United States European Command",
+                "similarity": 0.9204493761062622,
+                "wiki_node_relations": [
+                    "United States European Command(type=Node) -[director/manager(start_time=1993-10,end_time=1997-07)]-> George Joulwan(type=Node)",
+                    "United States European Command(type=Node) -[director/manager(start_time=1979-07,end_time=1987-06)]-> Bernard W. Rogers(type=Node)",
+                    "United States European Command(type=Node) -[director/manager(start_time=1969-07,end_time=1974-12)]-> Andrew Goodpaster(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "United States Central Command",
+                "similarity": 0.9130966663360596,
+                "wiki_node_relations": [
+                    "Joseph Votel(type=Node) -[commander of(start_time=~,end_time=~)]-> United States Central Command(type=Node)",
+                    "United States Central Command(type=Node) -[director/manager(start_time=1985-11,end_time=1988-11)]-> George B. Crist(type=Node)",
+                    "United States Central Command(type=Node) -[commanded by(start_time=~,end_time=~)]-> Joseph Votel(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "United States Southern Command",
+                "similarity": 0.9091421961784363,
+                "wiki_node_relations": [
+                    "United States Southern Command(type=Node) -[director/manager(start_time=2016-01,end_time=~)]-> Kurt W. Tidd(type=Node)",
+                    "John F. Kelly(type=Node) -[commander of(start_time=~,end_time=~)]-> United States Southern Command(type=Node)",
+                    "United States Southern Command(type=Node) -[country(start_time=~,end_time=~)]-> United States(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "French Academy",
+        "icews_node_relations": [
+            "Citizen (Ukraine)(type=Node) -[Make an appeal or request(start_time=2004-12,end_time=2004-12)]-> French Academy(type=Node)",
+            "French Academy(type=Node) -[Host a visit(start_time=2003-02,end_time=2003-02)]-> Vladimir Putin(type=Node)",
+            "French Academy(type=Node) -[Praise or endorse(start_time=2003-02,end_time=2003-02)]-> Vladimir Putin(type=Node)"
+        ],
+        "ref_wiki_node": "Academie Francaise",
+        "ref_wiki_node_relations": [
+            "Paul-Albert Besnard(type=Node) -[member of(start_time=1924-11,end_time=~)]-> Academie Francaise(type=Node)",
+            "Armand-Jerome Bignon(type=Node) -[member of(start_time=1743-05,end_time=~)]-> Academie Francaise(type=Node)",
+            "Francois de Clermont-Tonnerre(type=Node) -[member of(start_time=1694-11,end_time=~)]-> Academie Francaise(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "French Army",
+                "similarity": 0.8531700372695923,
+                "wiki_node_relations": [
+                    "French Army(type=Node) -[instance of(start_time=~,end_time=~)]-> Army(type=Node)",
+                    "Hubert Lyautey(type=Node) -[military branch(start_time=~,end_time=~)]-> French Army(type=Node)",
+                    "Pierre de Villiers(type=Node) -[military branch(start_time=~,end_time=~)]-> French Army(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "French Navy",
+                "similarity": 0.8366530537605286,
+                "wiki_node_relations": [
+                    "French Navy(type=Node) -[part of(start_time=~,end_time=~)]-> French Armed Forces(type=Node)",
+                    "French Armed Forces(type=Node) -[has part(start_time=~,end_time=~)]-> French Navy(type=Node)",
+                    "French Navy(type=Node) -[country(start_time=~,end_time=~)]-> France(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "French ambassador",
+                "similarity": 0.7955703139305115,
+                "wiki_node_relations": [
+                    "Segolene Royal(type=Node) -[position held(start_time=2017-09,end_time=~)]-> French ambassador(type=Node)",
+                    "Ambassadeur de France(type=Node) -[different from(start_time=~,end_time=~)]-> French ambassador(type=Node)",
+                    "French ambassador(type=Node) -[country(start_time=~,end_time=~)]-> France(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Frederik Andre Henrik Christian",
+        "icews_node_relations": [
+            "Mikhail Saakashvili(type=Node) -[Express intent to meet or negotiate(start_time=2007-10,end_time=2007-10)]-> Frederik Andre Henrik Christian(type=Node)"
+        ],
+        "ref_wiki_node": "Frederik, Crown Prince of Denmark",
+        "ref_wiki_node_relations": [
+            "Frederik, Crown Prince of Denmark(type=Node) -[award received(start_time=~,end_time=~)]-> Order of the White Rose of Finland(type=Node)",
+            "Frederik, Crown Prince of Denmark(type=Node) -[member of(start_time=~,end_time=~)]-> International Olympic Committee(type=Node)",
+            "Frederik, Crown Prince of Denmark(type=Node) -[noble title(start_time=~,end_time=~)]-> Prince(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Frederik Pronk",
+                "similarity": 0.8258019089698792,
+                "wiki_node_relations": [
+                    "Frederik Pronk(type=Node) -[work location(start_time=1868-01,end_time=1868-01)]-> New York City(type=Node)",
+                    "Frederik Pronk(type=Node) -[work location(start_time=1873-01,end_time=1873-01)]-> City of Brussels(type=Node)",
+                    "Frederik Pronk(type=Node) -[work location(start_time=1873-01,end_time=1877-01)]-> Amsterdam(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Frederik, Crown Prince of Denmark",
+                "similarity": 0.8077735900878906,
+                "wiki_node_relations": [
+                    "Frederik, Crown Prince of Denmark(type=Node) -[award received(start_time=~,end_time=~)]-> Order of the White Rose of Finland(type=Node)",
+                    "Frederik, Crown Prince of Denmark(type=Node) -[member of(start_time=~,end_time=~)]-> International Olympic Committee(type=Node)",
+                    "Frederik, Crown Prince of Denmark(type=Node) -[noble title(start_time=~,end_time=~)]-> Prince(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Jim Bacon",
+        "icews_node_relations": [
+            "Jim Bacon(type=Node) -[Make statement(start_time=2001-11,end_time=2001-11)]-> John Howard(type=Node)",
+            "Jim Bacon(type=Node) -[Make statement(start_time=2000-03,end_time=2000-03)]-> Australia(type=Node)",
+            "Jim Bacon(type=Node) -[Make optimistic comment(start_time=2002-07,end_time=2002-07)]-> Australia(type=Node)"
+        ],
+        "ref_wiki_node": "Jim Bacon (politician)",
+        "ref_wiki_node_relations": [
+            "Jim Bacon (politician)(type=Node) -[occupation(start_time=~,end_time=~)]-> trade unionist(type=Node)",
+            "Jim Bacon (politician)(type=Node) -[position held(start_time=1998-02,end_time=1998-02)]-> Delegate to the Australian Constitutional Convention, 1998(type=Node)",
+            "Jim Bacon (politician)(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Jim Costa",
+                "similarity": 0.8531822562217712,
+                "wiki_node_relations": [
+                    "Jim Costa(type=Node) -[work location(start_time=~,end_time=~)]-> Sacramento, California(type=Node)",
+                    "Jim Costa(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Jim Costa(type=Node) -[position held(start_time=2007-01,end_time=2009-01)]-> United States Representative(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Jim Bunning",
+                "similarity": 0.8520351052284241,
+                "wiki_node_relations": [
+                    "Jim Bunning(type=Node) -[position held(start_time=1995-01,end_time=1997-01)]-> United States Representative(type=Node)",
+                    "Jim Bunning(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+                    "Jim Bunning(type=Node) -[position held(start_time=1979-00,end_time=1983-00)]-> member of the State Senate of Kentucky(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Jim Cooper",
+                "similarity": 0.8482673168182373,
+                "wiki_node_relations": [
+                    "Jim Cooper(type=Node) -[position held(start_time=~,end_time=~)]-> United States Representative(type=Node)",
+                    "Jim Cooper(type=Node) -[position held(start_time=2009-01,end_time=2011-01)]-> United States Representative(type=Node)",
+                    "Jim Cooper(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Democratic and Social Centre - People's Party",
+        "icews_node_relations": [
+            "Head of Government (Portugal)(type=Node) -[Engage in negotiation(start_time=2011-06,end_time=2011-06)]-> Democratic and Social Centre - People's Party(type=Node)",
+            "Democratic and Social Centre - People's Party(type=Node) -[Engage in negotiation(start_time=2011-06,end_time=2011-06)]-> Head of Government (Portugal)(type=Node)",
+            "Head of Government (Portugal)(type=Node) -[Express intent to meet or negotiate(start_time=2013-07,end_time=2013-07)]-> Democratic and Social Centre - People's Party(type=Node)"
+        ],
+        "ref_wiki_node": "CDS \u2013 People's Party",
+        "ref_wiki_node_relations": [
+            "CDS \u2013 People's Party(type=Node) -[country(start_time=~,end_time=~)]-> Portugal(type=Node)",
+            "Paulo Portas(type=Node) -[member of political party(start_time=~,end_time=~)]-> CDS \u2013 People's Party(type=Node)",
+            "CDS \u2013 People's Party(type=Node) -[political ideology(start_time=~,end_time=~)]-> Conservatism(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "People's Party for Freedom and Democracy",
+                "similarity": 0.9082940816879272,
+                "wiki_node_relations": [
+                    "Melanie Schultz van Haegen(type=Node) -[member of political party(start_time=~,end_time=~)]-> People's Party for Freedom and Democracy(type=Node)",
+                    "Henk Kamp(type=Node) -[member of political party(start_time=~,end_time=~)]-> People's Party for Freedom and Democracy(type=Node)",
+                    "Frits Korthals Altes(type=Node) -[member of political party(start_time=1956-04,end_time=~)]-> People's Party for Freedom and Democracy(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "People's Freedom Party (Russia)",
+                "similarity": 0.8900620341300964,
+                "wiki_node_relations": [
+                    "People's Freedom Party (Russia)(type=Node) -[chairperson(start_time=2012-06,end_time=2015-00)]-> Boris Nemtsov(type=Node)",
+                    "People's Freedom Party (Russia)(type=Node) -[political alignment(start_time=~,end_time=~)]-> Centre-right politics(type=Node)",
+                    "People's Freedom Party (Russia)(type=Node) -[member of(start_time=~,end_time=~)]-> Alliance of Liberals and Democrats for Europe Party(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Social Democratic and Labour Party",
+                "similarity": 0.8878384828567505,
+                "wiki_node_relations": [
+                    "John Hume(type=Node) -[member of political party(start_time=~,end_time=~)]-> Social Democratic and Labour Party(type=Node)",
+                    "Social Democratic and Labour Party(type=Node) -[headquarters location(start_time=~,end_time=~)]-> Belfast(type=Node)",
+                    "Mark Durkan(type=Node) -[member of political party(start_time=~,end_time=~)]-> Social Democratic and Labour Party(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Secretary of State for Communities and Local Government",
+        "icews_node_relations": [
+            "Secretary of State for Communities and Local Government(type=Node) -[Criticize or denounce(start_time=2011-04,end_time=2011-04)]-> Citizen (France)(type=Node)",
+            "Secretary of State for Communities and Local Government(type=Node) -[Make pessimistic comment(start_time=2009-03,end_time=2009-03)]-> Citizen (United Kingdom)(type=Node)"
+        ],
+        "ref_wiki_node": "Secretary of State for Levelling Up, Housing and Communities",
+        "ref_wiki_node_relations": [
+            "Secretary of State for Levelling Up, Housing and Communities(type=Node) -[officeholder(start_time=2016-07,end_time=2018-04)]-> Sajid Javid(type=Node)",
+            "Caroline Flint(type=Node) -[position held(start_time=2010-10,end_time=2011-10)]-> Secretary of State for Levelling Up, Housing and Communities(type=Node)",
+            "Secretary of State for Levelling Up, Housing and Communities(type=Node) -[part of(start_time=~,end_time=~)]-> Cabinet of the United Kingdom(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Secretary of State for the Environment",
+                "similarity": 0.9201734066009521,
+                "wiki_node_relations": [
+                    "Secretary of State for the Environment(type=Node) -[applies to jurisdiction(start_time=~,end_time=~)]-> United Kingdom(type=Node)",
+                    "Peter Walker, Baron Walker of Worcester(type=Node) -[position held(start_time=1970-10,end_time=1972-11)]-> Secretary of State for the Environment(type=Node)",
+                    "Chris Patten(type=Node) -[position held(start_time=1989-07,end_time=1990-11)]-> Secretary of State for the Environment(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Secretary of State for Levelling Up, Housing and Communities",
+                "similarity": 0.913680911064148,
+                "wiki_node_relations": [
+                    "Secretary of State for Levelling Up, Housing and Communities(type=Node) -[officeholder(start_time=2016-07,end_time=2018-04)]-> Sajid Javid(type=Node)",
+                    "Caroline Flint(type=Node) -[position held(start_time=2010-10,end_time=2011-10)]-> Secretary of State for Levelling Up, Housing and Communities(type=Node)",
+                    "Secretary of State for Levelling Up, Housing and Communities(type=Node) -[part of(start_time=~,end_time=~)]-> Cabinet of the United Kingdom(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Antonio Luis dos Santos da Costa",
+        "icews_node_relations": [
+            "Head of Government (Mozambique)(type=Node) -[Appeal for diplomatic cooperation (such as policy support)(start_time=2020-11,end_time=2020-11)]-> Antonio Luis dos Santos da Costa(type=Node)",
+            "Antonio Luis dos Santos da Costa(type=Node) -[Make statement(start_time=2005-11,end_time=2005-11)]-> Government (Portugal)(type=Node)",
+            "Government (India)(type=Node) -[Consult(start_time=2017-01,end_time=2017-01)]-> Antonio Luis dos Santos da Costa(type=Node)"
+        ],
+        "ref_wiki_node": "Antonio Costa",
+        "ref_wiki_node_relations": [
+            "Prime Minister of Portugal(type=Node) -[officeholder(start_time=~,end_time=~)]-> Antonio Costa(type=Node)",
+            "Portugal(type=Node) -[head of government(start_time=2015-11,end_time=~)]-> Antonio Costa(type=Node)",
+            "Antonio Costa(type=Node) -[work location(start_time=~,end_time=~)]-> City of Brussels(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Jose Luis Alonso de Santos",
+                "similarity": 0.8820354342460632,
+                "wiki_node_relations": [
+                    "Jose Luis Alonso de Santos(type=Node) -[place of birth(start_time=~,end_time=~)]-> Valladolid(type=Node)",
+                    "Jose Luis Alonso de Santos(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Jose Luis Alonso de Santos(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Spain(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Jose Eduardo dos Santos",
+                "similarity": 0.8742731809616089,
+                "wiki_node_relations": [
+                    "Jose Eduardo dos Santos(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Jose Eduardo dos Santos(type=Node) -[religion(start_time=~,end_time=~)]-> Catholicism(type=Node)",
+                    "Jose Eduardo dos Santos(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Alexandre Jose Maria dos Santos",
+                "similarity": 0.8477989435195923,
+                "wiki_node_relations": [
+                    "Alexandre Jose Maria dos Santos(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Mozambique(type=Node)",
+                    "Alexandre Jose Maria dos Santos(type=Node) -[religion(start_time=~,end_time=~)]-> Catholic Church(type=Node)",
+                    "Alexandre Jose Maria dos Santos(type=Node) -[position held(start_time=~,end_time=~)]-> Bishop(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Disney",
+        "icews_node_relations": [
+            "Kim Jong-Un(type=Node) -[Host a visit(start_time=2012-07,end_time=2012-07)]-> Disney(type=Node)",
+            "Citizen (United States)(type=Node) -[Bring lawsuit against(start_time=2017-06,end_time=2017-06)]-> Disney(type=Node)",
+            "Disney(type=Node) -[Demand(start_time=2021-07,end_time=2021-07)]-> Employee (United States)(type=Node)"
+        ],
+        "ref_wiki_node": "The Walt Disney Company",
+        "ref_wiki_node_relations": [
+            "Dow Jones Industrial Average(type=Node) -[has part(start_time=~,end_time=~)]-> The Walt Disney Company(type=Node)",
+            "The Walt Disney Company(type=Node) -[chief executive officer(start_time=1923-10,end_time=1966-00)]-> Walt Disney(type=Node)",
+            "American Broadcasting Company(type=Node) -[owned by(start_time=~,end_time=~)]-> The Walt Disney Company(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Disney Legends",
+                "similarity": 0.8224484324455261,
+                "wiki_node_relations": [
+                    "Andreas Deja(type=Node) -[award received(start_time=2015-01,end_time=2015-01)]-> Disney Legends(type=Node)",
+                    "Carrie Fisher(type=Node) -[award received(start_time=2017-01,end_time=2017-01)]-> Disney Legends(type=Node)",
+                    "Frank Thomas (animator)(type=Node) -[award received(start_time=1989-00,end_time=1989-00)]-> Disney Legends(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Walt Disney",
+                "similarity": 0.8169629573822021,
+                "wiki_node_relations": [
+                    "Walt Disney(type=Node) -[place of birth(start_time=~,end_time=~)]-> Chicago(type=Node)",
+                    "Walt Disney(type=Node) -[award received(start_time=2006-01,end_time=2006-01)]-> California Hall of Fame(type=Node)",
+                    "Roy O. Disney(type=Node) -[sibling(start_time=~,end_time=~)]-> Walt Disney(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "The Walt Disney Company",
+                "similarity": 0.717391848564148,
+                "wiki_node_relations": [
+                    "Dow Jones Industrial Average(type=Node) -[has part(start_time=~,end_time=~)]-> The Walt Disney Company(type=Node)",
+                    "The Walt Disney Company(type=Node) -[chief executive officer(start_time=1923-10,end_time=1966-00)]-> Walt Disney(type=Node)",
+                    "American Broadcasting Company(type=Node) -[owned by(start_time=~,end_time=~)]-> The Walt Disney Company(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Robert E. Rubin",
+        "icews_node_relations": [
+            "Robert E. Rubin(type=Node) -[Express intent to meet or negotiate(start_time=1999-01,end_time=1999-01)]-> Chancellor of the Exchequer(type=Node)",
+            "Robert E. Rubin(type=Node) -[Make an appeal or request(start_time=1998-06,end_time=1998-06)]-> Japan(type=Node)",
+            "Zhu Rongji(type=Node) -[Express intent to meet or negotiate(start_time=1999-04,end_time=1999-04)]-> Robert E. Rubin(type=Node)"
+        ],
+        "ref_wiki_node": "Robert Rubin",
+        "ref_wiki_node_relations": [
+            "2017 Bilderberg Conference(type=Node) -[participant(start_time=~,end_time=~)]-> Robert Rubin(type=Node)",
+            "Robert Rubin(type=Node) -[educated at(start_time=~,end_time=~)]-> London School of Economics(type=Node)",
+            "Robert Rubin(type=Node) -[place of birth(start_time=~,end_time=~)]-> New York City(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Robert E. Lee",
+                "similarity": 0.9184041619300842,
+                "wiki_node_relations": [
+                    "Robert E. Lee(type=Node) -[country of citizenship(start_time=1865-06,end_time=1870-10)]-> United States(type=Node)",
+                    "Robert E. Lee(type=Node) -[described by source(start_time=~,end_time=~)]-> Small Brockhaus and Efron Encyclopedic Dictionary(type=Node)",
+                    "Robert E. Lee(type=Node) -[military rank(start_time=~,end_time=~)]-> General officer(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Robert E. Cramer",
+                "similarity": 0.9169014096260071,
+                "wiki_node_relations": [
+                    "Robert E. Cramer(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+                    "Robert E. Cramer(type=Node) -[position held(start_time=1997-01,end_time=1999-01)]-> United States Representative(type=Node)",
+                    "Robert E. Cramer(type=Node) -[position held(start_time=2005-01,end_time=2007-01)]-> United States Representative(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Robert B. Wilson",
+                "similarity": 0.8760808706283569,
+                "wiki_node_relations": [
+                    "Robert B. Wilson(type=Node) -[employer(start_time=1964-00,end_time=2004-00)]-> Stanford University(type=Node)",
+                    "Bengt Holmstrom(type=Node) -[doctoral advisor(start_time=~,end_time=~)]-> Robert B. Wilson(type=Node)",
+                    "Robert B. Wilson(type=Node) -[educated at(start_time=~,end_time=1961-00)]-> Harvard Business School(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Saud bin Faisal bin Abdul-Aziz",
+        "icews_node_relations": [
+            "Head of Government (Qatar)(type=Node) -[Consult(start_time=2010-03,end_time=2010-03)]-> Saud bin Faisal bin Abdul-Aziz(type=Node)",
+            "Saud bin Faisal bin Abdul-Aziz(type=Node) -[Make statement(start_time=2005-09,end_time=2005-09)]-> Egypt(type=Node)",
+            "Tamim bin Hamad Al Thani(type=Node) -[Demand(start_time=2014-03,end_time=2014-03)]-> Saud bin Faisal bin Abdul-Aziz(type=Node)"
+        ],
+        "ref_wiki_node": "Saud bin Faisal Al Saud (1940\u20132015)",
+        "ref_wiki_node_relations": [
+            "Saud bin Faisal Al Saud (1940\u20132015)(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)",
+            "Saud bin Faisal Al Saud (1940\u20132015)(type=Node) -[sibling(start_time=~,end_time=~)]-> Khalid bin Faisal Al Saud(type=Node)",
+            "Saud bin Faisal Al Saud (1940\u20132015)(type=Node) -[sibling(start_time=~,end_time=~)]-> Turki bin Faisal Al Saud(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Sattam bin Abdulaziz Al Saud",
+                "similarity": 0.9275044202804565,
+                "wiki_node_relations": [
+                    "Badr bin Abdulaziz Al Saud(type=Node) -[sibling(start_time=~,end_time=~)]-> Sattam bin Abdulaziz Al Saud(type=Node)",
+                    "Sattam bin Abdulaziz Al Saud(type=Node) -[educated at(start_time=~,end_time=~)]-> University of San Diego(type=Node)",
+                    "Sattam bin Abdulaziz Al Saud(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Badr bin Abdulaziz Al Saud",
+                "similarity": 0.9247784614562988,
+                "wiki_node_relations": [
+                    "Badr bin Abdulaziz Al Saud(type=Node) -[sibling(start_time=~,end_time=~)]-> Sattam bin Abdulaziz Al Saud(type=Node)",
+                    "Badr bin Abdulaziz Al Saud(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Saudi Arabia(type=Node)",
+                    "Abdul Rahman bin Abdulaziz Al Saud(type=Node) -[sibling(start_time=~,end_time=~)]-> Badr bin Abdulaziz Al Saud(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Abdul Rahman bin Abdulaziz Al Saud",
+                "similarity": 0.9207326769828796,
+                "wiki_node_relations": [
+                    "Abdul Rahman bin Abdulaziz Al Saud(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Saudi Arabia(type=Node)",
+                    "Abdul Rahman bin Abdulaziz Al Saud(type=Node) -[sibling(start_time=~,end_time=~)]-> Badr bin Abdulaziz Al Saud(type=Node)",
+                    "Abdul Rahman bin Abdulaziz Al Saud(type=Node) -[place of birth(start_time=~,end_time=~)]-> Riyadh(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Umar Farooq",
+        "icews_node_relations": [
+            "Citizen (India)(type=Node) -[Accuse(start_time=2019-12,end_time=2019-12)]-> Umar Farooq(type=Node)",
+            "Umar Farooq(type=Node) -[Make statement(start_time=2004-12,end_time=2004-12)]-> Pakistan administered Kashmir(type=Node)",
+            "Umar Farooq(type=Node) -[Meet at a 'third' location(start_time=2004-11,end_time=2004-11)]-> Pervez Musharraf(type=Node)"
+        ],
+        "ref_wiki_node": "Umar",
+        "ref_wiki_node_relations": [
+            "Umar(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Rashidun Caliphate(type=Node)",
+            "Umar(type=Node) -[occupation(start_time=~,end_time=~)]-> Statesman(type=Node)",
+            "Umar(type=Node) -[described by source(start_time=~,end_time=~)]-> Brockhaus and Efron Encyclopedic Dictionary(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Farooq Leghari",
+                "similarity": 0.8896104097366333,
+                "wiki_node_relations": [
+                    "Farooq Leghari(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Farooq Leghari(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Farooq Leghari(type=Node) -[occupation(start_time=~,end_time=~)]-> Diplomat(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Umar",
+                "similarity": 0.8313616514205933,
+                "wiki_node_relations": [
+                    "Umar(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Rashidun Caliphate(type=Node)",
+                    "Umar(type=Node) -[occupation(start_time=~,end_time=~)]-> Statesman(type=Node)",
+                    "Umar(type=Node) -[described by source(start_time=~,end_time=~)]-> Brockhaus and Efron Encyclopedic Dictionary(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Armed Forces of the Russian Federation",
+        "icews_node_relations": [
+            "Armed Forces of the Russian Federation(type=Node) -[Make a visit(start_time=2016-03,end_time=2016-03)]-> Syria(type=Node)",
+            "Armed Forces of the Russian Federation(type=Node) -[Express intent to meet or negotiate(start_time=2013-04,end_time=2013-04)]-> Daniel Ortega(type=Node)",
+            "Armed Forces of the Russian Federation(type=Node) -[Make a visit(start_time=1998-12,end_time=1998-12)]-> Japan(type=Node)"
+        ],
+        "ref_wiki_node": "Russian Armed Forces",
+        "ref_wiki_node_relations": [
+            "Sergei Skripal(type=Node) -[employer(start_time=~,end_time=1999-00)]-> Russian Armed Forces(type=Node)",
+            "Russian Armed Forces(type=Node) -[has part(start_time=~,end_time=~)]-> Russian Navy(type=Node)",
+            "Russian Armed Forces(type=Node) -[country(start_time=~,end_time=~)]-> Russia(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Military Academy of the General Staff of the Armed Forces of Russia",
+                "similarity": 0.904716968536377,
+                "wiki_node_relations": [
+                    "Military Academy of the General Staff of the Armed Forces of Russia(type=Node) -[country(start_time=~,end_time=~)]-> Russia(type=Node)",
+                    "Alexander Rutskoy(type=Node) -[educated at(start_time=~,end_time=~)]-> Military Academy of the General Staff of the Armed Forces of Russia(type=Node)",
+                    "Military Academy of the General Staff of the Armed Forces of Russia(type=Node) -[award received(start_time=~,end_time=~)]-> Order of Lenin(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Russian Armed Forces",
+                "similarity": 0.8962938785552979,
+                "wiki_node_relations": [
+                    "Sergei Skripal(type=Node) -[employer(start_time=~,end_time=1999-00)]-> Russian Armed Forces(type=Node)",
+                    "Russian Armed Forces(type=Node) -[has part(start_time=~,end_time=~)]-> Russian Navy(type=Node)",
+                    "Russian Armed Forces(type=Node) -[country(start_time=~,end_time=~)]-> Russia(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Dwight E. Evans",
+        "icews_node_relations": [
+            "Dwight E. Evans(type=Node) -[Praise or endorse(start_time=2021-04,end_time=2021-04)]-> Bangladesh(type=Node)"
+        ],
+        "ref_wiki_node": "Dwight Evans (politician)",
+        "ref_wiki_node_relations": [
+            "Dwight Evans (politician)(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+            "Dwight Evans (politician)(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+            "Dwight Evans (politician)(type=Node) -[position held(start_time=~,end_time=~)]-> United States Representative(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Dwight F. Davis",
+                "similarity": 0.8831337094306946,
+                "wiki_node_relations": [
+                    "Dwight F. Davis(type=Node) -[member of political party(start_time=~,end_time=~)]-> Republican Party (United States)(type=Node)",
+                    "Dwight F. Davis(type=Node) -[place of death(start_time=~,end_time=~)]-> Washington, D.C.(type=Node)",
+                    "Dwight F. Davis(type=Node) -[occupation(start_time=~,end_time=~)]-> Politician(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Dwight D. Eisenhower",
+                "similarity": 0.8584111332893372,
+                "wiki_node_relations": [
+                    "Dwight D. Eisenhower(type=Node) -[occupation(start_time=~,end_time=~)]-> Writer(type=Node)",
+                    "Dwight D. Eisenhower(type=Node) -[native language(start_time=~,end_time=~)]-> English language(type=Node)",
+                    "Central Intelligence Agency(type=Node) -[founded by(start_time=~,end_time=~)]-> Dwight D. Eisenhower(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Dwight Evans (politician)",
+                "similarity": 0.835392415523529,
+                "wiki_node_relations": [
+                    "Dwight Evans (politician)(type=Node) -[instance of(start_time=~,end_time=~)]-> Human(type=Node)",
+                    "Dwight Evans (politician)(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Dwight Evans (politician)(type=Node) -[position held(start_time=~,end_time=~)]-> United States Representative(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Frederik Willem De Klerk",
+        "icews_node_relations": [
+            "Antonio Manuel de Oliveira Guterres(type=Node) -[Engage in symbolic act(start_time=2021-11,end_time=2021-11)]-> Frederik Willem De Klerk(type=Node)",
+            "Frederik Willem De Klerk(type=Node) -[Consult(start_time=1996-02,end_time=1996-02)]-> Nelson Rolihlahla Mandela(type=Node)",
+            "Frederik Willem De Klerk(type=Node) -[Express intent to meet or negotiate(start_time=1995-06,end_time=1995-06)]-> Businessperson (Egypt)(type=Node)"
+        ],
+        "ref_wiki_node": "F. W. de Klerk",
+        "ref_wiki_node_relations": [
+            "F. W. de Klerk(type=Node) -[award received(start_time=~,end_time=~)]-> honorary doctorate of Haifa University(type=Node)",
+            "F. W. de Klerk(type=Node) -[award received(start_time=1993-00,end_time=1993-00)]-> Nobel Peace Prize(type=Node)",
+            "F. W. de Klerk(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> South Africa(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Carel Frederik Louis De Wild",
+                "similarity": 0.8634580373764038,
+                "wiki_node_relations": [
+                    "Carel Frederik Louis De Wild(type=Node) -[work location(start_time=1896-01,end_time=1911-01)]-> The Hague(type=Node)",
+                    "Carel Frederik Louis De Wild(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Carel Frederik Louis De Wild(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Kingdom of the Netherlands(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "F. W. de Klerk",
+                "similarity": 0.863411545753479,
+                "wiki_node_relations": [
+                    "F. W. de Klerk(type=Node) -[award received(start_time=~,end_time=~)]-> honorary doctorate of Haifa University(type=Node)",
+                    "F. W. de Klerk(type=Node) -[award received(start_time=1993-00,end_time=1993-00)]-> Nobel Peace Prize(type=Node)",
+                    "F. W. de Klerk(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> South Africa(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Azerbaijan State University",
+        "icews_node_relations": [
+            "Azerbaijan State University(type=Node) -[Consult(start_time=2002-11,end_time=2002-11)]-> Foreign Affairs (United States)(type=Node)",
+            "Foreign Affairs (Egypt)(type=Node) -[Make a visit(start_time=2010-12,end_time=2010-12)]-> Azerbaijan State University(type=Node)",
+            "Lech Kaczynski(type=Node) -[Praise or endorse(start_time=2009-07,end_time=2009-07)]-> Azerbaijan State University(type=Node)"
+        ],
+        "ref_wiki_node": "Baku State University",
+        "ref_wiki_node_relations": [
+            "Mitrofan Dovnar-Zapolsky(type=Node) -[employer(start_time=~,end_time=1925-00)]-> Baku State University(type=Node)",
+            "Sargis Hakobyan(type=Node) -[educated at(start_time=~,end_time=1939-00)]-> Baku State University(type=Node)",
+            "Baku State University(type=Node) -[instance of(start_time=~,end_time=~)]-> University(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Azerbaijan State Oil and Industry University",
+                "similarity": 0.8890906572341919,
+                "wiki_node_relations": [
+                    "Azerbaijan State Oil and Industry University(type=Node) -[instance of(start_time=~,end_time=~)]-> University(type=Node)",
+                    "Azerbaijan State Oil and Industry University(type=Node) -[country(start_time=~,end_time=~)]-> Azerbaijan(type=Node)",
+                    "Jose Eduardo dos Santos(type=Node) -[educated at(start_time=~,end_time=~)]-> Azerbaijan State Oil and Industry University(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Belarus State Economic University",
+                "similarity": 0.8363248705863953,
+                "wiki_node_relations": [
+                    "Belarus State Economic University(type=Node) -[instance of(start_time=~,end_time=~)]-> University(type=Node)",
+                    "Mikhail Chigir(type=Node) -[educated at(start_time=~,end_time=1970-00)]-> Belarus State Economic University(type=Node)",
+                    "Belarus State Economic University(type=Node) -[located in the administrative territorial entity(start_time=~,end_time=~)]-> Minsk(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Arizona State University",
+                "similarity": 0.8203970193862915,
+                "wiki_node_relations": [
+                    "Ed Pastor(type=Node) -[educated at(start_time=~,end_time=1974-00)]-> Arizona State University(type=Node)",
+                    "Arizona State University(type=Node) -[country(start_time=~,end_time=~)]-> United States(type=Node)",
+                    "Carl Hayden(type=Node) -[educated at(start_time=~,end_time=1896-00)]-> Arizona State University(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Secretary of State for Health",
+        "icews_node_relations": [
+            "Court Judge (France)(type=Node) -[Investigate(start_time=1996-08,end_time=1996-08)]-> Secretary of State for Health(type=Node)",
+            "Cameroon(type=Node) -[Host a visit(start_time=2010-09,end_time=2010-09)]-> Secretary of State for Health(type=Node)",
+            "Secretary of State for Health(type=Node) -[Make a visit(start_time=2010-05,end_time=2010-05)]-> 10 Downing Street(type=Node)"
+        ],
+        "ref_wiki_node": "Secretary of State for Health and Social Care",
+        "ref_wiki_node_relations": [
+            "Aneurin Bevan(type=Node) -[position held(start_time=1945-08,end_time=1951-01)]-> Secretary of State for Health and Social Care(type=Node)",
+            "Kenneth Clarke(type=Node) -[position held(start_time=1988-07,end_time=1990-11)]-> Secretary of State for Health and Social Care(type=Node)",
+            "Virginia Bottomley(type=Node) -[position held(start_time=1992-04,end_time=1995-07)]-> Secretary of State for Health and Social Care(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Secretary of State for Education",
+                "similarity": 0.9684791564941406,
+                "wiki_node_relations": [
+                    "Edward Short, Baron Glenamara(type=Node) -[position held(start_time=1968-04,end_time=1970-06)]-> Secretary of State for Education(type=Node)",
+                    "Sarah Teather(type=Node) -[position held(start_time=2006-03,end_time=2007-07)]-> Secretary of State for Education(type=Node)",
+                    "Anthony Crosland(type=Node) -[position held(start_time=1965-01,end_time=1967-08)]-> Secretary of State for Education(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Secretary of State for Finance",
+                "similarity": 0.9635351300239563,
+                "wiki_node_relations": [
+                    "Secretary of State for Finance(type=Node) -[applies to jurisdiction(start_time=~,end_time=~)]-> Greece(type=Node)",
+                    "Filippos Sachinidis(type=Node) -[position held(start_time=~,end_time=~)]-> Secretary of State for Finance(type=Node)",
+                    "Alekos Papadopoulos(type=Node) -[position held(start_time=~,end_time=~)]-> Secretary of State for Finance(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Secretary of State for Transport",
+                "similarity": 0.960445761680603,
+                "wiki_node_relations": [
+                    "Norman Fowler, Baron Fowler(type=Node) -[position held(start_time=1981-01,end_time=1981-09)]-> Secretary of State for Transport(type=Node)",
+                    "Brian Mawhinney(type=Node) -[position held(start_time=1994-07,end_time=1995-07)]-> Secretary of State for Transport(type=Node)",
+                    "Malcolm Rifkind(type=Node) -[position held(start_time=1990-11,end_time=1992-04)]-> Secretary of State for Transport(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Nadezhda Mihailova",
+        "icews_node_relations": [
+            "Nadezhda Mihailova(type=Node) -[Express intent to meet or negotiate(start_time=2003-06,end_time=2003-06)]-> Richard C. Holbrooke(type=Node)",
+            "Nadezhda Mihailova(type=Node) -[Make statement(start_time=2001-04,end_time=2001-04)]-> European Union(type=Node)",
+            "Head of Government (Bulgaria)(type=Node) -[Express intent to meet or negotiate(start_time=2001-01,end_time=2001-01)]-> Nadezhda Mihailova(type=Node)"
+        ],
+        "ref_wiki_node": "Nadezhda Neynsky",
+        "ref_wiki_node_relations": [
+            "Nadezhda Neynsky(type=Node) -[work location(start_time=~,end_time=~)]-> Strasbourg(type=Node)",
+            "Nadezhda Neynsky(type=Node) -[work location(start_time=~,end_time=~)]-> Ankara(type=Node)",
+            "Nadezhda Neynsky(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Bulgaria(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Nadezhda Alliluyeva",
+                "similarity": 0.9039647579193115,
+                "wiki_node_relations": [
+                    "Nadezhda Alliluyeva(type=Node) -[place of birth(start_time=~,end_time=~)]-> Tbilisi(type=Node)",
+                    "Svetlana Alliluyeva(type=Node) -[mother(start_time=~,end_time=~)]-> Nadezhda Alliluyeva(type=Node)",
+                    "Nadezhda Alliluyeva(type=Node) -[member of political party(start_time=~,end_time=~)]-> Communist Party of the Soviet Union(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Nadezhda Neynsky",
+                "similarity": 0.8968863487243652,
+                "wiki_node_relations": [
+                    "Nadezhda Neynsky(type=Node) -[work location(start_time=~,end_time=~)]-> Strasbourg(type=Node)",
+                    "Nadezhda Neynsky(type=Node) -[work location(start_time=~,end_time=~)]-> Ankara(type=Node)",
+                    "Nadezhda Neynsky(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> Bulgaria(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "British Monarch",
+        "icews_node_relations": [
+            "Ireland(type=Node) -[Host a visit(start_time=2011-03,end_time=2011-03)]-> British Monarch(type=Node)",
+            "Joseph Robinette Biden(type=Node) -[Praise or endorse(start_time=2021-06,end_time=2021-06)]-> British Monarch(type=Node)",
+            "British Monarch(type=Node) -[Host a visit(start_time=2011-05,end_time=2011-05)]-> Elizabeth II(type=Node)"
+        ],
+        "ref_wiki_node": "Monarchy of the United Kingdom",
+        "ref_wiki_node_relations": [
+            "Monarchy of the United Kingdom(type=Node) -[country(start_time=~,end_time=~)]-> United Kingdom(type=Node)",
+            "Governor of Hong Kong(type=Node) -[appointed by(start_time=~,end_time=~)]-> Monarchy of the United Kingdom(type=Node)",
+            "Monarchy of the United Kingdom(type=Node) -[instance of(start_time=~,end_time=~)]-> Constitutional monarchy(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Monarch",
+                "similarity": 0.8900412917137146,
+                "wiki_node_relations": [
+                    "Leopold II of Belgium(type=Node) -[occupation(start_time=~,end_time=~)]-> Monarch(type=Node)",
+                    "Amanullah Khan(type=Node) -[occupation(start_time=~,end_time=~)]-> Monarch(type=Node)",
+                    "Juliana of the Netherlands(type=Node) -[occupation(start_time=~,end_time=~)]-> Monarch(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Monarch of the United Kingdom",
+                "similarity": 0.8644136786460876,
+                "wiki_node_relations": [
+                    "Prime Minister of the United Kingdom(type=Node) -[appointed by(start_time=~,end_time=~)]-> Monarch of the United Kingdom(type=Node)",
+                    "Elizabeth II(type=Node) -[position held(start_time=1952-02,end_time=~)]-> Monarch of the United Kingdom(type=Node)",
+                    "Prince of Wales(type=Node) -[appointed by(start_time=~,end_time=~)]-> Monarch of the United Kingdom(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Monarch of Denmark",
+                "similarity": 0.8635469079017639,
+                "wiki_node_relations": [
+                    "Christopher of Bavaria(type=Node) -[position held(start_time=1440-04,end_time=1448-01)]-> Monarch of Denmark(type=Node)",
+                    "Christian VIII of Denmark(type=Node) -[position held(start_time=1839-12,end_time=1848-01)]-> Monarch of Denmark(type=Node)",
+                    "Frederick III of Denmark(type=Node) -[position held(start_time=1648-07,end_time=1670-02)]-> Monarch of Denmark(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Harry E. Mitchell",
+        "icews_node_relations": [
+            "Israel(type=Node) -[Express intent to meet or negotiate(start_time=2009-08,end_time=2009-08)]-> Harry E. Mitchell(type=Node)",
+            "Harry E. Mitchell(type=Node) -[Consult(start_time=1999-09,end_time=1999-09)]-> United Kingdom(type=Node)",
+            "Harry E. Mitchell(type=Node) -[Engage in negotiation(start_time=2000-11,end_time=2000-11)]-> Kofi Annan(type=Node)"
+        ],
+        "ref_wiki_node": "Harry Mitchell",
+        "ref_wiki_node_relations": [
+            "Harry Mitchell(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+            "Harry Mitchell(type=Node) -[position held(start_time=2009-01,end_time=2011-01)]-> United States Representative(type=Node)",
+            "Harry Mitchell(type=Node) -[position held(start_time=~,end_time=2006-00)]-> Chairperson(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Henry E. Brady",
+                "similarity": 0.8756685853004456,
+                "wiki_node_relations": [
+                    "Henry E. Brady(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+                    "Henry E. Brady(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Henry E. Brady(type=Node) -[country of citizenship(start_time=~,end_time=~)]-> United States(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Harry M. Ward",
+                "similarity": 0.8744219541549683,
+                "wiki_node_relations": [
+                    "Harry M. Ward(type=Node) -[military branch(start_time=1951-00,end_time=1953-00)]-> United States Marine Corps(type=Node)",
+                    "Harry M. Ward(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)",
+                    "Harry M. Ward(type=Node) -[educated at(start_time=~,end_time=1951-00)]-> William Jewell College(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Harry Mitchell",
+                "similarity": 0.8705942630767822,
+                "wiki_node_relations": [
+                    "Harry Mitchell(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> English language(type=Node)",
+                    "Harry Mitchell(type=Node) -[position held(start_time=2009-01,end_time=2011-01)]-> United States Representative(type=Node)",
+                    "Harry Mitchell(type=Node) -[position held(start_time=~,end_time=2006-00)]-> Chairperson(type=Node)"
+                ]
+            }
+        ]
+    },
+    {
+        "icews_node": "Henri Lopes",
+        "icews_node_relations": [
+            "Macky Sall(type=Node) -[Praise or endorse(start_time=2014-10,end_time=2014-10)]-> Henri Lopes(type=Node)"
+        ],
+        "ref_wiki_node": "Henri Lopes (Congolese politician)",
+        "ref_wiki_node_relations": [
+            "Henri Lopes (Congolese politician)(type=Node) -[occupation(start_time=~,end_time=~)]-> Writer(type=Node)",
+            "Henri Lopes (Congolese politician)(type=Node) -[position held(start_time=~,end_time=~)]-> Ambassador(type=Node)",
+            "Henri Lopes (Congolese politician)(type=Node) -[award received(start_time=~,end_time=~)]-> Officer of the Legion of Honour(type=Node)"
+        ],
+        "sim_matched_nodes": [
+            {
+                "wiki_node": "Henri Lavedan",
+                "similarity": 0.8500769138336182,
+                "wiki_node_relations": [
+                    "Henri Lavedan(type=Node) -[languages spoken, written or signed(start_time=~,end_time=~)]-> French language(type=Node)",
+                    "Henri Lavedan(type=Node) -[place of death(start_time=~,end_time=~)]-> Paris(type=Node)",
+                    "Henri Lavedan(type=Node) -[sex or gender(start_time=~,end_time=~)]-> Male gender(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Carlos Lopes",
+                "similarity": 0.8216569423675537,
+                "wiki_node_relations": [
+                    "Carlos Lopes(type=Node) -[award received(start_time=1983-00,end_time=1983-00)]-> Bislett medal(type=Node)",
+                    "Carlos Lopes(type=Node) -[award received(start_time=~,end_time=~)]-> Order of Prince Henry(type=Node)",
+                    "Carlos Lopes(type=Node) -[given name(start_time=~,end_time=~)]-> Carlos (given name)(type=Node)"
+                ]
+            },
+            {
+                "wiki_node": "Henri Lopes (Congolese politician)",
+                "similarity": 0.8189771771430969,
+                "wiki_node_relations": [
+                    "Henri Lopes (Congolese politician)(type=Node) -[occupation(start_time=~,end_time=~)]-> Writer(type=Node)",
+                    "Henri Lopes (Congolese politician)(type=Node) -[position held(start_time=~,end_time=~)]-> Ambassador(type=Node)",
+                    "Henri Lopes (Congolese politician)(type=Node) -[award received(start_time=~,end_time=~)]-> Officer of the Legion of Honour(type=Node)"
+                ]
+            }
+        ]
+    }
+]
